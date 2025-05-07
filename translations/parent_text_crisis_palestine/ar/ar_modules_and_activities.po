@@ -1,0 +1,1480 @@
+#. type=text
+msgctxt "text"
+msgid "*A Friendly Chat*"
+msgstr "*دردشة ودية*"
+
+#. type=text
+msgctxt "text"
+msgid "Talk to your children about something that they are interested in! 😃"
+msgstr "احكي مع أطفالك عن إشي بيثير اهتمامهم!😃"
+
+#. type=text
+msgctxt "text"
+msgid "⚽ An easy way to start talking to your children is to ask them about something they are interested in. For example, you could talk about local stories, traditions, sports, favourite books, friends, music, famous people or something they have been learning about."
+msgstr "⚽ طريقة سهلة لبدء الحكي مع أطفالك هي إنك تسألهم عن إشي مهتمين فيه. مثلاً، فيك تحكي عن قصص محلية، أو تقاليد، أو رياضة، أو كتب مُفضَّلة، أو أصدقاء، أو موسيقى، أو شخصيات مشهورة أو إشي ليتعلموا."
+
+#. type=text
+msgctxt "text"
+msgid "👂 You may not find everything your children share to be interesting, but it’s important to show enthusiasm and an eagerness to learn."
+msgstr "ممكن يشاركك أطفالك بأمور غير مهمة لك، على الرغم من ذلك اظهر الاهتمام والرغبة في معرفة المزيد."
+
+#. type=text
+msgctxt "text"
+msgid "Paying attention to what matters to your children can make a big difference in your relationship and their happiness."
+msgstr "اهتمامك باللي أطفالك بيهتموا به بيفرق كثير في علاقتكم وسعادتهم."
+
+#. type=text
+msgctxt "text"
+msgid "*Reflect on Hope*"
+msgstr "فكّر بالأمل"
+
+#. type=text
+msgctxt "text"
+msgid "Spread Hope!"
+msgstr "انشر الأمل!"
+
+#. type=text
+msgctxt "text"
+msgid "💡 Together, take a minute to think about all the things you did today."
+msgstr "خدوا لحظة مع بعض علشان تفكروا في كل الأشياء اللي عملتوها النهارده."
+
+#. type=text
+msgctxt "text"
+msgid "☀️ Take turns sharing one positive thing that happened. This could be something small or big, like feeling good because you took a pause to take some deep breaths, exercised like walking or stretching, or spent time with people you care about."
+msgstr "بدّلوا الأدوار وشاركوا إشي إيجابي صار. ممكن يكون إشي صغير أو كبير، مثلاً حسيتوا حالكم منيح لأنكم تنفستوا بعمق، أو مارستم رياضة مثل المشي أو تمرينات الإطالة والتمدد أو قضيتوا وقت مع ناس بتهتموا فيهم."
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Try doing this every day - even more on the days it feels like you have not done anything special."
+msgstr "حاولوا تعملوا هاي الإشي كل يوم- وخصوصًا بالأيام اللي بتحسوا فيها ما عملتوا إشي مميز."
+
+#. type=text
+msgctxt "text"
+msgid "*What’s New?*"
+msgstr "*شو الجديد؟ *"
+
+#. type=text
+msgctxt "text"
+msgid "Learning is fun! 🎓"
+msgstr "التعلم ممتع!🎓"
+
+#. type=text
+msgctxt "text"
+msgid "❓ Ask your children to think of a new, fun skill you could learn together."
+msgstr "اطلب من أطفالك يفكروا في مهارة جديدة ومرحة تتعلموها معًا."
+
+#. type=text
+msgctxt "text"
+msgid "For example, keeping a ball in the air with your foot, learning and practising local language phrases, sharing stories from your culture, playing local games and sports, or learning a new song."
+msgstr "مثلًا، تخلوا الكرة ثابتة في الهواء برجليكم، تتعلموا وتتمرنوا على عبارات من لهجتنا، تشاركوا قصص من ثقافتكم، تلعبوا ألعاب ورياضات بلادنا، أو تتعلموا أغنية جديدة."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Take turns trying out the new skill. Make sure to praise each other and learn and play together!"
+msgstr "🔄بدّلوا الأدوار وجربوا المهارة الجديدة. تأكدوا أنكم تمدحوا بعض وتتعلموا وتلعبوا مع بعض!"
+
+#. type=text
+msgctxt "text"
+msgid "💛 Approach learning the skill in a kind and fun way, and do not judge your children or yourself for your ability in the skill."
+msgstr "💛تعامل مع تعلم المهارة بطريقة لطيفة وممتعة، وما تحكم على أطفالك أو على حالك بسبب قدرتك وتمكن مهارتك."
+
+#. type=text
+msgctxt "text"
+msgid "*Check-in Chat*"
+msgstr "دردشة للتفقد"
+
+#. type=text
+msgctxt "text"
+msgid "Actively checking in on one another helps to keep relationships healthy! ⭐"
+msgstr "سؤالكم عن بعض بيساعد تحافظوا على علاقاتكم منيحة!"
+
+#. type=text
+msgctxt "text"
+msgid "Ask each other questions like: “What made you happy today?” 👂 “What was difficult today?” 👂 “How can I help you?” 👂"
+msgstr "اسألوا بعضكم أسئلة مثل: "شو أسعدك النهارده؟" 👂 "شو كان صعب النهارده؟" 👂 "كيف بقدر أساعدك؟" 👂"
+
+#. type=text
+msgctxt "text"
+msgid "For this to help, your children need to feel safe while sharing things with you. Be open to their responses. 💚"
+msgstr "علشان هاي الشي يفيد، لازم أطفالك يحسوا بالأمان وهم بيحكوا معك. خليك متقبل لردودهم. 💚""
+
+#. type=text
+msgctxt "text"
+msgid "Older children tend to be more honest when they trust that what they say will not be used against them later."
+msgstr "الأطفال الكبار سنًّا بيكونوا أصدق لما بيثقوا إنه اللي بيحكوه ما راح يستعمل ضدهم بعدين."
+
+#. type=text
+msgctxt "text"
+msgid "Be kind to yourself if your children do not want to share their problems with you. 💙 Often, children are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷"
+msgstr "كون لطيف مع حالك إذا أطفالك ما بدهم يحكولك مشاكلهم. 💙 غالبًا الأطفال بيخافوا يحكوا لأنهم بيخافوا يتورطوا بمشاكل. الزعل منهم ما راح يفيد - أظهر لهم إنك بتحبهم واعطيهم وقت! 🌷""
+
+#. type=text
+msgctxt "text"
+msgid "*Express Yourself*"
+msgstr "*عبر عن نفسك*"
+
+#. type=text
+msgctxt "text"
+msgid "Movement makes people happy!"
+msgstr "الحركة بتخلي الناس مبسوطة!"
+
+#. type=text
+msgctxt "text"
+msgid "This game can be played in pairs or as a group - stand facing each other or in a circle."
+msgstr "يمكن لعب هاي اللعبة كأزواج أو كمجموعة - الوقوف قدام بعض أو في شكل دايرة."
+
+#. type=text
+msgctxt "text"
+msgid "🎵 Together, choose a song, a fun sound, or a clapping pattern to follow and choose a person to start the game by creating one movement."
+msgstr "🎵 مع بعض، اختاروا أغنية، أو صوت ممتع، أو نمط تصفيق تتبعوه، واختاروا شخص يبدأ اللعبة بحركة واحدة."
+
+#. type=text
+msgctxt "text"
+msgid "👀 The person to their right must copy that movement and add their own movement to it."
+msgstr "👀 الشخص اللي على يمينه لازم يقلد الحركة هادي ويضيف حركته الخاصة."
+
+#. type=text
+msgctxt "text"
+msgid "✨ Go around the circle, each person adding a new movement."
+msgstr "✨ لفوا بالدايرة، وكل شخص يضيف حركة جديدة."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 The first one who forgets someone's movements or does it in the wrong order chooses the next song, sound, or pattern and starts the game again."
+msgstr "🔄 أول واحد ينسى حركة حدا أو يعملها بالترتيب الغلط هو اللي يختار الأغنية، أو الصوت، أو النمط التالي ويبدأ اللعبة من جديد."
+
+#. type=text
+msgctxt "text"
+msgid "🎉 Have fun trying out different movements together with this fun game."
+msgstr "🎉 استمتعوا مع بعض وجربوا حركات مختلفة مع هذه اللعبة الممتعة."
+
+#. type=text
+msgctxt "text"
+msgid "*2 Truths, 1 Lie*"
+msgstr "حقيقتان وكذبة"
+
+#. type=text
+msgctxt "text"
+msgid "This is a fun, quick game, and the point of it is to learn things about each other. Make your answers as interesting as possible! 🎨"
+msgstr "هاي لعبة سريعة ومسلية، والهدف منها نتعلم أشياء عن بعض. خلي إجاباتك ممتعة قدر الإمكان!"
+
+#. type=text
+msgctxt "text"
+msgid "💡 Everyone thinks of 3 facts about themselves. 2 must be true, and 1 must be a lie."
+msgstr "كل واحد يفكر في تلات حقائق عن حاله. تنتين لازم يكونوا صح، وواحدة لازم تكون كذبة."
+
+#. type=text
+msgctxt "text"
+msgid "🔷 Here are some examples: I hate cold weather, I love cold ice cream, and my favourite thing to learn about is maths."
+msgstr "هاي شوية أمثلة: باكره الجو البارد، وبحب البوظة الباردة، وأكتر إشي بحب أتعلمه هو الرياضيات."
+
+#. type=text
+msgctxt "text"
+msgid "👀 Share your facts with your children and ask them to guess which one is a lie."
+msgstr "شاركو الحقائق مع أطفالكم واطلبوا منهم يخمنوا الكذبة."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Now ask them to do the same, and guess theirs."
+msgstr "ودلوقتي اطلبوا منهم يعملوا نفس الإشي، وخمنوا حقائقهم."
+
+#. type=text
+msgctxt "text"
+msgid "Did you learn anything new about your children, or did they learn anything new about you? 💛"
+msgstr "هل تعلمتوا إشي جديد عن أطفالكم أو تعلموا إشي جديد عنكم؟"
+
+#. type=text
+msgctxt "text"
+msgid "*Yes, No or Maybe*"
+msgstr "نعم، أو لا أو يمكن"
+
+#. type=text
+msgctxt "text"
+msgid "Are you tired of hearing your children say yes, no, or maybe to all of your questions? Turn your chat into a game, and don’t allow one-word answers. 🎈"
+msgstr "زهقتوا من إجابة أطفالكم بنعم، لا، يمكن على كل أسئلتكم؟ حولوا دردشتكم للعبة، وما تسمحوا بالإجابة بكلمة وحدة."
+
+#. type=text
+msgctxt "text"
+msgid "🔴 Older children are known to give one-word answers to avoid talking."
+msgstr "الأطفال الكبار معروفين إنهم بيعطوا إجابات بكلمة واحدة عشان يتجنبوا الحكي."
+
+#. type=text
+msgctxt "text"
+msgid "💡 When you would like to really know how your children are doing, you can turn your chat into a game."
+msgstr "لو بدك تعرف عن جد كيف حال أطفالك، ممكن تحول الدردشة معهم للعبة."
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Take turns asking each other questions. The only rule is that you cannot use one-word responses like Yes, No, Maybe, Fine, and Okay."
+msgstr "بدّلوا الأدوار واسألوا بعض أسئلة. القاعدة الوحيدة إنكم ما تستعملوا إجابات بكلمة واحدة مثل نعم، أو لا، أو يمكن، أو منيح، أو تمام"
+
+#. type=text
+msgctxt "text"
+msgid "⚽ You can ask about things your children like or what they did today. For example, how was your day? What are you excited about? What is one thing that is worrying you today?"
+msgstr "ممكن تسأل عن شغلات أطفالك بيحبوها أو شو عملوا النهارده. مثلًا، كيف كان يومك؟ شو الإشي اللي متحمسين ليه؟ شو الإشي اللي مقلقكم النهارده"
+
+#. type=text
+msgctxt "text"
+msgid "🔄 It is important to let your children ask you questions as well. Trust is built when your children can see that you are also sharing your life with them and not only trying to learn about their life."
+msgstr "مهم إنك تخلي أطفالك يسألوك كمان. الثقة بتنبني لما أطفالك يشوفوا إنك بتشارك حياتك معهم، مش بس بتحاول تعرف أكتر عن حياتهم."
+
+#. type=text
+msgctxt "text"
+msgid "*Get Active*"
+msgstr "تحرّكوا"
+
+#. type=text
+msgctxt "text"
+msgid "Exercise is a great way to spend time together, and it is so good for your health🌱. Find an exercise activity that both you and your children want to do and try it out together! Be mindful of the safety of the space you are using for exercise."
+msgstr "ممارسة الرياضة طريقة ممتازة تقضوا فيها وقت مع بعض، وهي كتير منيحة لصحتكم. دوَّر على نشاط رياضي أنت وأطفالك بدكم تعملوه وجربوه معًا! انتبه على أمان المكان اللي بتستخدموه للرياضة."
+
+#. type=text
+msgctxt "text"
+msgid "⏰ Even walking for 10 minutes a day is good for you."
+msgstr "حتى المشي لمدة 10 دقايق باليوم منيح لكم."
+
+#. type=text
+msgctxt "text"
+msgid "⚽Together, try walking, running, stretching, playing games like hide-and-seek, or any other physical activities you enjoy."
+msgstr "جربوا تمشوا، أو تركضوا، أو تلعبوا ألعاب الإطالة، أو ألعاب مثل الغميضة معًا، أو أي نشاطات بدنية تانية بتستمتعوا فيها."
+
+#. type=text
+msgctxt "text"
+msgid "🏆 Together, think of ways to make it even more fun. Can you run to a certain point? Take turns being the coach? Can there be a small, free reward like getting to decide the next activity?"
+msgstr "فكروا معًا في طرق تخلي اللعبة ممتعة أكتر. بتقدروا تركضوا لنقطة معينة؟ تتبادلوا أدوار المدرب؟ بتقدروا تحطوا مكافأة صغيرة ومجانية زي إن الفائز يقرر النشاط الجاي؟"
+
+#. type=text
+msgctxt "text"
+msgid "Exercise becomes easier and more enjoyable the more you do it."
+msgstr "الرياضة بتصير أسهل وأمتع لو مارستوها أكتر وأكتر."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 If you or your children do not like the first type of exercise you pick, try a new way to exercise."
+msgstr "لو أنت أو أطفالك ما حبيتوا أول نوع رياضة اخترتوه، جربوا طريقة جديدة للرياضة."
+
+#. type=text
+msgctxt "text"
+msgid "*Take a Pause With Your Children*"
+msgstr "*خد استراحة مع أطفالك*"
+
+#. type=text
+msgctxt "text"
+msgid "Take a pause with your children. This helps them deal with stress in a healthy way!"
+msgstr "خد استراحة مع أطفالك هاي بيساعدهم يتعاملوا مع الإجهاد بطريقة صحية!"
+
+#. type=text
+msgctxt "text"
+msgid "⏰ You could take a pause together at any time, or you could try at a specific time like before bedtime."
+msgstr "ممكن تاخدوا استراحة معًا في أي وقت، أو ممكن تجربوا في وقت محدد مثل قبل النوم."
+
+#. type=text
+msgctxt "text"
+msgid "👂 Sit down together and close your eyes. Listen to your breath as it goes in and out. Notice how you feel."
+msgstr "اقعدوا معًا وسكروا عيونكم. اسمعوا أنفاسكم وهي داخلة وخارجة. لاحظوا كيف بتحسوا."
+
+#. type=text
+msgctxt "text"
+msgid "⭐ Take 5 more deep breaths."
+msgstr "تنفسوا بعمق 5 مرات كمان."
+
+#. type=text
+msgctxt "text"
+msgid "👀 When you are ready, open your eyes again. Do you feel any different?"
+msgstr "لما تكونوا جاهزين، افتحوا عيونكم مرة تانية. حسيتوا بفرق؟"
+
+#. type=text
+msgctxt "text"
+msgid "⏸ Ask your children what it was like to take a pause. Listen and accept whatever they say about it."
+msgstr "اسأل أطفالك كيف كانت الاستراحة. اسمع وتقبل أي إشي بيحكوه عنها."
+
+#. type=text
+msgctxt "text"
+msgid "*This Is Who I Am*"
+msgstr "*هاد هو أنا*"
+
+#. type=text
+msgctxt "text"
+msgid "Self-esteem is the way you value yourself, either in a positive or negative way. Helping your children have high self-esteem is a recipe for success! 🏆"
+msgstr "تقدير الذات هو الطريقة اللي بتقيم فيها حالك، سواء بطريقة إيجابية أو سلبية. مساعدة أطفالك يكون عندهم تقدير عالي للذات هي وصفة للنجاح!"
+
+#. type=text
+msgctxt "text"
+msgid "⭐Share with your children 3 things you like about yourself!"
+msgstr "شارك مع أطفالك 3 شغلات تحبها في حالك!"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ Ask your children to tell you 3 things they like about themselves."
+msgstr "اطلب من أطفالك يحكولك 3 شغلات بيحبوها في حالهم."
+
+#. type=text
+msgctxt "text"
+msgid "For example, I am great at treating others kindly. I am great at playing football. I am great at drawing flowers. If this is too hard, try thinking of just one thing."
+msgstr "مثلًا، أنا ممتاز في معاملة الناس بلطف. أنا ممتاز في لعب كرة القدم. أنا ممتاز في رسم الزهور. لو هاي كان صعب، حاولوا تفكّروا في إشي واحد بس."
+
+#. type=text
+msgctxt "text"
+msgid "*Weekly Goal Setting*"
+msgstr "*تحديد هدف أسبوعي*"
+
+#. type=text
+msgctxt "text"
+msgid "Let’s set some goals ⭐"
+msgstr "يلا نحط شوية أهداف"
+
+#. type=text
+msgctxt "text"
+msgid "⏰ It can be helpful to set smaller weekly goals that are easier to reach, especially when life feels uncertain."
+msgstr "رح يكون مفيد إنو نحط أهداف أسبوعية أصغر وأسهل في الوصول ليها، خصوصًا لما الأمور تبدو محيرة."
+
+#. type=text
+msgctxt "text"
+msgid "nan"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "💡Ask each of your children for one goal that they would like to achieve this week."
+msgstr "اطلب من كل واحد من أطفالك هدف بده يحققه هالأسبوع."
+
+#. type=text
+msgctxt "text"
+msgid "🔄 Make sure this goal is *specific* and *achievable* to reach in 1 week, like: practising deep breathing for 5 minutes every day, exercising for 10 minutes three times a week, journaling feelings every night, or spending quality time with family or friends daily."
+msgstr "تأكد إن هاي الهدف *محدد* و*قابل للتحقيق* خلال أسبوع، مثل يتمرنوا على التنفس بعمق 5 دقايق كل يوم، أو يتمرنوا رياضة 10 دقايق 3 مرات بالأسبوع، أو يكتبوا مشاعرهم بمذكرات كل ليلة، أو يقضوا وقت مميز مع العائلة أو الأصحاب كل يوم."
+
+#. type=text
+msgctxt "text"
+msgid "💚 You can also share your own weekly goals with your children and support each other so you can both achieve your goals."
+msgstr "ممكن كمان تشارك أهدافك الأسبوعية الخاصة مع أطفالك وتدعموا بعض علشان تحققوا أهدافكم."
+
+#. type=text
+msgctxt "text"
+msgid "🎉 Make sure to praise and celebrate your children for their hard work towards reaching their goals."
+msgstr "تأكد من مدح أطفالك والاحتفال بتعبهم في تحقيق أهدافهم."
+
+#. type=text
+msgctxt "text"
+msgid "🔔 If your children do not reach their goals, that is okay. Discuss with them the steps they still need to take or how they could reach it a different way."
+msgstr "لو ما حقق أطفالك أهدافهم، لا مشكلة. ناقش معهم الخطوات اللي بيحتاجوها أو كيف ممكن يوصلوا لأهدافهم بطريقة تانية."
+
+#. type=text
+msgctxt "text"
+msgid "*One-on-One Time*"
+msgstr "*وقت مع بعض*"
+
+#. type=text
+msgctxt "text"
+msgid "💚 Spending time just with your children and taking an interest in them can improve your relationship."
+msgstr "قضاء الوقت مع أطفالك فقط والاهتمام فيهم راح يحسن علاقتكم."
+
+#. type=text
+msgctxt "text"
+msgid "👀 When your children are playing alone or occupying themselves, join them and show interest in what they are doing."
+msgstr "لما يلعب أطفالك لحالهم أو يكونوا مشغولين، انضم إلهم وبيّن لهم اهتمامك بما يفعلوا."
+
+#. type=text
+msgctxt "text"
+msgid "👂Ask questions about their activity and listen to them."
+msgstr "👂 اسألهم عن النشاط اللي يعملوا وكونوا مستمعين جيدين."
+
+#. type=text
+msgctxt "text"
+msgid "Let your children lead the activity and follow them to build their confidence and autonomy. 😃"
+msgstr "خلي أطفالك يقودوا النشاط واتبعهم ليزيدوا ثقتهم بنفسهم واستقلاليتهم. 😃"
+
+#. type=text
+msgctxt "text"
+msgid "👀 Say what you see - describing everything and supporting your children’s actions."
+msgstr "👀 قول شو بتشوف - صف كل إشيء وادعم تصرفات أطفالك."
+
+#. type=text
+msgctxt "text"
+msgid "Be positive, praise your children and enjoy spending this time with them. 😃💚"
+msgstr "كون إيجابي، امدح أطفالك واستمتعوا مع بعض في هذا الوقت. 😃💚"
+
+#. type=text
+msgctxt "text"
+msgid "*Animals*"
+msgstr "*الحيوانات*"
+
+#. type=text
+msgctxt "text"
+msgid "🧸 **Active Animals**"
+msgstr "**الحيوانات النشيطة**"
+
+#. type=text
+msgctxt "text"
+msgid "Take turns with your children doing animal actions. You might hop like a frog, stretch like a cat, run like a dog, slither like a snake, or flap like a bird. Add your own actions and animals!"
+msgstr "تبادل الأدوار مع أطفالك وقلّدوا حركات الحيوانات. ممكن تقفزوا مثل الضفدع، أو تتمددوا مثل القطة، أو تركضوا مثل الكلب، أو تزحفوا مثل الحية، أو ترفرفوا مثل الطير. أضف حركات وحيوانات تانية."
+
+#. type=text
+msgctxt "text"
+msgid "💡**All the Animals We Can Think Of**"
+msgstr "**كل الحيوانات اللي بتيجي ع بالنا**"
+
+#. type=text
+msgctxt "text"
+msgid "Think about groups of animals and talk about them with your children!"
+msgstr "فكر بمجموعات حيوانات واحكي عنها مع أطفالك!"
+
+#. type=text
+msgctxt "text"
+msgid "What are all the animals we can think of that have feathers? What are all the animals we can think of that eat plants? 🌱 What animals can we think of that lay eggs?"
+msgstr "شو كل الحيوانات اللي بتيجي عبالنا عندها ريش؟ شو كل الحيوانات اللي بتيجي عبالنا بتاكل نباتات؟ شو الحيوانات اللي بتيجي عبالنا بتبيض؟"
+
+#. type=text
+msgctxt "text"
+msgid "*Active Counting*"
+msgstr "*العد النشط*"
+
+#. type=text
+msgctxt "text"
+msgid "👋 **Clap, hop, jump**"
+msgstr "**صفقوا، اقفزوا على قدم واحدة، اقفزوا**"
+
+#. type=text
+msgctxt "text"
+msgid "Play the following game with your children. Make it active!"
+msgstr "العب هاي اللعبة مع أطفالك. وخليها نشطة"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ Clap hands 1 time."
+msgstr "صفقوا مرة"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ Clap hands 2 times."
+msgstr "2️⃣ صفقوا تنتين."
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ Jump 1 time."
+msgstr "اقفزوا مرة"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ Jump 2 times."
+msgstr "2️⃣ اقفزوا تنتين."
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ Hop 1 time."
+msgstr "1️⃣ اقفزوا على قدم واحدة مرة."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ Hop 3 times."
+msgstr "3️⃣ اقفزوا على قدم واحدة تلات مرات."
+
+#. type=text
+msgctxt "text"
+msgid "💡 Can you hop, then jump, then clap?"
+msgstr "بتقدروا تقفزوا على قدم واحدة وبعدين تقفزوا وبعدين تصفقوا؟"
+
+#. type=text
+msgctxt "text"
+msgid "🏆 Can you clap twice, jump once, and hop three times?"
+msgstr "بتقدروا تصفقوا تنتين. وبعدين تقفزوا مرة وبعدين تقفزوا على قدم واحدة تلات مرات؟"
+
+#. type=text
+msgctxt "text"
+msgid "💡 **Remembering Instructions**"
+msgstr "💡 **حفظ التعليمات**"
+
+#. type=text
+msgctxt "text"
+msgid "Take turns playing a game where you give 2-3 instructions that the other person has to remember to follow. Make sure physical movement is included!"
+msgstr "بدّلوا الأدوار بلعبة تعطي فيها 2-3 تعليمات لازم الشخص الثاني يتذكرها ويعملها. خلي الحركة الجسدية تكون جزء من التعليمات!"
+
+#. type=text
+msgctxt "text"
+msgid "For example:"
+msgstr "مثلًا:"
+
+#. type=text
+msgctxt "text"
+msgid "Hop twice, turn around."
+msgstr "اقفزوا على قدم واحدة تنتين. لفوا حواليكم."
+
+#. type=text
+msgctxt "text"
+msgid "Take ten steps forward, three steps to the side and sit down. ✅"
+msgstr "خذوا عشر خطوات لقدام، وتلاتة خطوات على جنب، واقعدوا. ✅"
+
+#. type=text
+msgctxt "text"
+msgid "*Active Songs*"
+msgstr "*أغاني نشطة*"
+
+#. type=text
+msgctxt "text"
+msgid "😃 Young children love physical games but they need reminders about how to play. 💡"
+msgstr "الأطفال الصغار بيحبوا الألعاب البدنية، لكن بيحتاجوا تذكرهم كيف يلعبوا"
+
+#. type=text
+msgctxt "text"
+msgid "🎵 Songs with movements are fun and active and give instructions on how to move!"
+msgstr "الأغاني مع الحركات ممتعة ونشيطة وبتعطي تعليمات كيف يتحركوا!"
+
+#. type=text
+msgctxt "text"
+msgid "Sing songs to your children in which they have to follow instructions like:"
+msgstr "غنّوا لأطفالكم أغاني ينفذوا فيها تعليمات مثل:"
+
+#. type=text
+msgctxt "text"
+msgid "✅ Start and stop ❌"
+msgstr "ابدأ ووقف"
+
+#. type=text
+msgctxt "text"
+msgid "⬇️ Slow down and speed up ⬆️"
+msgstr "أبطأ وأسرع"
+
+#. type=text
+msgctxt "text"
+msgid "You are not alone 🤲. Many other people are also going through very hard times, including war or having to leave their homes 💔. Many people share your pain as you face so many losses and uncertainties."
+msgstr "أنت مش لحالك 🤲. فيه ناس كتير تانيين عم يمرّوا بأوقات صعبة كتير، فيه منهم عايشين في الحرب أو اضطرّوا يتركوا بيوتهم 💔. فيه ناس كتار حاسين بوجعك وانت عم تواجه خسارتك أو قلقك على المُستقبل."
+
+#. type=text
+msgctxt "text"
+msgid "When life is this hard, it's normal to feel overwhelmed 😣."
+msgstr "طبيعي تحس إنك مضغوط، لما تكون الحياة صعبة هيك 😣."
+
+#. type=text
+msgctxt "text"
+msgid "Today’s tips are about ways you can take care of yourself 🌱, even when it is very difficult."
+msgstr "نصائح اليوم هيه عن طُرُق تهتم بفها بحالك 🌱، حتّى لمّا يكون الوضع صعب كتير."
+
+#. type=text
+msgctxt "text"
+msgid "Remember, when you take good care of yourself, it can help you take good care of your children."
+msgstr "إتذكّر، لمّا تعتني بحالك منيح، بتكون عم بتساعد حالك تعتني بأطفالك."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 3️⃣ tips to help you care for yourself so you can care for your children:"
+msgstr "اضغط تشغيل ▶️ عشان تتعلم 3️⃣ نصائح تساعدك تهتم بحالك، عشان تقدر تهتم بأطفالك."
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **BREATHE**"
+msgstr "1️⃣ **خُد نفس**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **BREATHE TOGETHER WITH YOUR CHILDREN**"
+msgstr "2️⃣ **خُد نفس مع أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **CONNECT AND SHARE**"
+msgstr "3️⃣ **تواصَل معهم وشاركهم**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 3️⃣ tips to help:"
+msgstr "هاي 3️⃣ النصائح رح تساعدك:"
+
+#. type=text
+msgctxt "text"
+msgid "Listen to your breath 🌬️ as it goes in and out."
+msgstr "اسمع صوت نفسك 🌬️ وهو داخل وخارج."
+
+#. type=text
+msgctxt "text"
+msgid "Place your hands on your chest or tummy and feel how it rises and falls with each breath."
+msgstr "حط إيديك على صدرك أو بطنك، وحسّ كيف بيطلع وبينزل مع كل نَفَس."
+
+#. type=text
+msgctxt "text"
+msgid "Then, listen to your breath in a calm, gentle way for a while🌄."
+msgstr "بعدها، إستمع لتنفّسَك بهدوء وراحة لمدّة قصيرة 🌄."
+
+#. type=text
+msgctxt "text"
+msgid "🗓️ Do these breathing practices every day together with your children. It will help you and them learn to manage stress 🌱."
+msgstr "🗓️ مارس تمارين التنفُّس هاي كل يوم مع أطفالك. هاي التمارين رح تساعدكم تسيطروا على التوتّر و الضغط النفسي🌱."
+
+#. type=text
+msgctxt "text"
+msgid "If your stress feels overwhelming, please contact a trusted person, organisation or helpline. Type {HELP} after these tips for more information."
+msgstr "إذا حاسس التوتّر و الضغط النفسي أكتر من ما بتقدر تتحمّل، من فضلك تواصَل مع شخص موثوق، أو منظَّمة، أو خط للمُساعدة. اكتُب {HELP} بعد هاي النصائح عشان تحصل على معلومات أكتر."
+
+#. type=text
+msgctxt "text"
+msgid "✅ 100%"
+msgstr "٪١٠٠ ✅"
+
+#. type=text
+msgctxt "text"
+msgid "💙 Thank you for joining us today. You are truly great."
+msgstr "💙 شكرًا لإنضمامك إلنا اليوم. أنت شخص رائع بالفعل."
+
+#. type=text
+msgctxt "text"
+msgid "Coping with your fears and stresses 🌊 is the first step to caring for yourself 💪 and helping others 🤝."
+msgstr "التعامُل مع مخاوفك و مصاعبك 🌊 هو الخطوة الأولى عشان تهتم بحالك 💪 وتساعد غيرك 🤝."
+
+#. type=text
+msgctxt "text"
+msgid "In these times, it can be hard for us as parents to help our children feel secure."
+msgstr "في هاي الأوقات، ممكن يكون صعب علينا كأهل نخلّي أطفالنا يحسّوا بالأمان."
+
+#. type=text
+msgctxt "text"
+msgid "Today's tips are about helping your children cope with trauma from war, displacement, and other hardships 🌍💔."
+msgstr "نصائح اليوم عن مُساعدة أطفالك في التعامُل مع الصدمات بسبب الحرب، أو التهجير، أو الصعوبات التانية 🌍💔."
+
+#. type=text
+msgctxt "text"
+msgid "It is possible that your children are feeling upset, angry, or confused. They need your support."
+msgstr "ممكن أطفالك يحسّوا إنهم زعلانين، أو معصِّبين، أو محتارين. هُمّ محتاجين لدعمك."
+
+#. type=text
+msgctxt "text"
+msgid "There are some simple things you can do! 🌟"
+msgstr "في شغلات بسيطة بتقدر تعملها! 🌟"
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 5️⃣ tips on how you can support your children during these tough times:"
+msgstr "اضغط تشغيل ▶️ عشان تتعلم 5️⃣ نصائح عن كيف تدعم أطفالك بهاي الأوقات الصعبة."
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **LISTEN**"
+msgstr "1️⃣ **استمع**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **ACCEPT & BE SENSITIVE**"
+msgstr "2️⃣ **تفهَّم وكون حسّاس**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **BE HONEST**"
+msgstr "3️⃣ **كون صادِق**"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **PRAISE YOURSELF AND YOUR CHILDREN**"
+msgstr "4️⃣ **اِمدح نفسك وأطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ **THERE IS HELP**"
+msgstr "5️⃣ **المساعدة موجودة**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 5️⃣ tips on how you can support your children during these times:"
+msgstr "هاي 5️⃣ نصائح عشان تدعم أطفالك بهاي الأوقات:"
+
+#. type=text
+msgctxt "text"
+msgid "👂 Listen to your children carefully when they express their feelings and try to empathise."
+msgstr "👂 اسمع لأطفالك منيح لمَّا يعبّروا عن مشاعرهم وحاول تتعاطف معاهم."
+
+#. type=text
+msgctxt "text"
+msgid "🌱 Accept whatever they are feeling and give them comfort that such feelings are quite normal under these circumstances."
+msgstr "🌱تقبَّل شعورهم مهما كان، وطمِّنهم إنهم طبيعي يحسّوا هيك في هاي الظروف."
+
+#. type=text
+msgctxt "text"
+msgid "🛑 If your children do not want to talk about this situation, do not insist."
+msgstr "🛑 لو أطفالك ما بدهم يحكوا بالموضوع، لا تضغط عليهم."
+
+#. type=text
+msgctxt "text"
+msgid "If your children ask a question about what is happening, be honest in your response and share information that is appropriate for their age."
+msgstr "لو سألوك أطفالك عن شو اللي صاير، جاوبهم بصراحة وشاركهم معلومات بتناسب عمرهم."
+
+#. type=text
+msgctxt "text"
+msgid "Try to have a compassionate attitude and accept any feelings they have."
+msgstr "حاول يكون أسلوبك وديع معهم وتقبَّل أي مشاعر عندهم."
+
+#. type=text
+msgctxt "text"
+msgid "🌟 Every night, praise yourself and your children for something, however small."
+msgstr "🌟امدح حالك وأطفالك كل ليلة على أي إشي، مهما كان بسيط."
+
+#. type=text
+msgctxt "text"
+msgid "This will make you and your children feel better and will help build a caring relationship between you 🦋."
+msgstr "التشجيع المستمرّ من خلال المدح والتقدير رح يحسّن نفسيتكم، ويساعدكم تبنوا علاقة فيها محبّة واهتمام 🦋."
+
+#. type=text
+msgctxt "text"
+msgid "🤝If you have any concerns regarding a child’s feelings and behaviours, then please contact a trusted person, organisation, or helpline. Type {HELP} after these tips, or any time you need help, for more information."
+msgstr "🤝 لو كنت قلقان بخصوص مشاعر الطفل أو تصرّفاته، فمن فضلك تواصَل مع شخص موثوق، أو مُنظَّمة، أو خط مُساعدة. اكتُب {HELP} بعد هاي النصاCح، أو في أي وقت بتحتاج للمُساعدة عشان تحصل على معلومات أكتر."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us today 💙. No matter how upset or tired you are, you are amazing parents."
+msgstr "شكرًا لإنضمامك إلنا اليوم 💙. مهما كنت زعلان أو تعبان، فانت والِد رائع بالفعل."
+
+#. type=text
+msgctxt "text"
+msgid "Today's tips are about practical ways to cope during difficult times."
+msgstr "نصائح اليوم عن طُُرُق عمليّة بتساعدك على التأقلم بالأوقات الصعبة."
+
+#. type=text
+msgctxt "text"
+msgid "Even though it’s hard, try to practise simple daily habits 🗓️ because routines help children feel secure."
+msgstr "رغم إنه هادا الإشيء صعب، حاول تمارِس عادات يوميّة بسيطة 🗓️ لأنه الروتين بيساعد أطفالك يحسّوا بالأمان."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 5️⃣ practical, daily habits you can do every day that will help you and your children cope with your current situation:"
+msgstr "اضغط تشغيل ▶️ عشان تتعرّف على 5️⃣ عادات يوميّة وعمليّة بتقدر تعملها كل يوم، بتساعدك إنت وأطفالك تتعاملوا مع الوضع الحالي:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **SPEND TIME TOGETHER**"
+msgstr "1️⃣ **اقضوا وقت مع بعض**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **ASK YOUR CHILDREN**"
+msgstr "2️⃣ **اسأل أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **APPRECIATE YOUR CHILDREN**"
+msgstr "3️⃣ **قدَّر أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **HELP OTHERS**"
+msgstr "4️⃣ **ساعِد غيرك**"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ **BE PRESENT**"
+msgstr "5️⃣ **كون متواجد**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 5️⃣ tips for building practical habits you can do every day that will help you and your children cope with your current situation:"
+msgstr "هاي 5️⃣ نصائح عشان تبني عادات عمليّة تقدر تعملها كل يوم عشان تساعد حالك وأطفالك على التأقلم مع وضعكم الحالي:"
+
+#. type=text
+msgctxt "text"
+msgid "If it is possible, try to make a routine for spending time together 🕒."
+msgstr "ولو ممكن، حاوِل يكون عندكم روتين تقضّوا فيه وقت مع بعض 🕒."
+
+#. type=text
+msgctxt "text"
+msgid "🔁 You can engage children in daily activities, such as telling a story, praying together, or sharing at least one meal together."
+msgstr "🔁 فيك تشرِك أطفالك بأنشطة يوميّة، زي إنك تحكيلهم قصّة، أو تصلّوا مع بعض، أو تاكلوا على الأقل وجبة واحدة مع بعض."
+
+#. type=text
+msgctxt "text"
+msgid "Ask children what they want to do."
+msgstr "اسأل أطفالك شو حابين يعملوا."
+
+#. type=text
+msgctxt "text"
+msgid "If you can’t do that activity now, it’s still a chance to connect with your children emotionally 🤍."
+msgstr "حتّى لو ما قدرتوا تعملوا النشاط هلأ، لسّاتها عندك فرصة تتواصل مع  أطفالك عاطفيًّا 🤍."
+
+#. type=text
+msgctxt "text"
+msgid "After this lesson, you can type {PLAY} to get some activity ideas to do with children 📝."
+msgstr "بعد هادا الدرس، ممكن تكتب {PLAY} عشان تتعرّف على أفكار لأنشطة ممكن تعملها مع أطفالك 📝."
+
+#. type=text
+msgctxt "text"
+msgid "Take a moment every day to appreciate your children for engaging in activities with you 🌿."
+msgstr "خُد لحظة كل يوم عشان تعطي تقدير لأطفالك لأنّهم اشتركوا في الأنشطة معاك 🌿."
+
+#. type=text
+msgctxt "text"
+msgid "Helping others can also make you feel better 🤍. Even a smile can help someone else feel better 🌱."
+msgstr "مساعدة الآخرين بتساعد كمان بتحسين النفسيّة🤍. مجرّد الابتسامة ممكن تفرّح حدا تاني 🌱."
+
+#. type=text
+msgctxt "text"
+msgid "Our children can learn calmness and kindness from us 💙."
+msgstr "أطفالنا بيتعلّموا منّا الهدوء والطيبة 💙."
+
+#. type=text
+msgctxt "text"
+msgid "When spending time with your children, be as present as possible. Listen to them👂 and look at them 👀 when they talk."
+msgstr "لمّا تقضي وقت مع أطفالك، خلّيك حاضرعلى قد ما تقدر. اسمعهم 👂واتطلّع فيهم 👀 وهمّ بيحكوا."
+
+#. type=text
+msgctxt "text"
+msgid "Pay your full attention to them, this will help validate, reassure, and comfort children 🤍."
+msgstr "أعطي أطفالك انتباهك كلّه، لأنه إنتباهك بطمّنمهم، بريّحهم و بخليهم يحسّوا بالتأييد 🤍."
+
+#. type=text
+msgctxt "text"
+msgid "✅⬜️"
+msgstr "✅⬜️"
+
+#. type=text
+msgctxt "text"
+msgid "You’ve completed 50% of this tip! Press NEXT to continue."
+msgstr "أكملت٥٠٪من النصيحة! إضغط NEXT لتكمّل."
+
+#. type=text
+msgctxt "text"
+msgid "Here are some regular activities you might want to try to do with your children:"
+msgstr "هاي بعض الأنشطة اليوميّة اللي ممكن تحب تجرّب تعملها مع أطفالك:"
+
+#. type=text
+msgctxt "text"
+msgid "Share one meal together"
+msgstr "كلوا وجبة مع بعض"
+
+#. type=text
+msgctxt "text"
+msgid "Getting ready to sleep"
+msgstr "الاستعداد للنوم"
+
+#. type=text
+msgctxt "text"
+msgid "Exercise daily"
+msgstr "ممارسة الرياضة كل يوم"
+
+#. type=text
+msgctxt "text"
+msgid "Daily play activities"
+msgstr "أنشطة لعب يوميّة"
+
+#. type=text
+msgctxt "text"
+msgid "✅✅ 100%"
+msgstr "✅✅ 100%"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us 💙."
+msgstr "شكرًا لإنضمامك إلنا 💙."
+
+#. type=text
+msgctxt "text"
+msgid "Our children learn to show peace, love, and empathy from us 🌿."
+msgstr "أطفالنا بيتعلّّموا منّا كيف يعبّروا عن السلام والمحبّة والتعاطُف 🌿."
+
+#. type=text
+msgctxt "text"
+msgid "Playing and talking to children every day helps them feel secure 🛡️. You’re doing so much to care for your children! 🌟"
+msgstr "اللعب والحكي مع الأطفال كل يوم بيساعدهم يحسّوا بالأمان 🛡️. إنت عم تبذل جهد عظيم عشان تهتم فيهم! 🌟"
+
+#. type=text
+msgctxt "text"
+msgid "In these times that are so hard, we often have extra stress and tension, and it’s normal that we feel more anger."
+msgstr "بهاي الأوقات الصعبة، بزيد التوتّر والضغط، وطبيعي نحس  أكتر بالغضب والعصبيّة."
+
+#. type=text
+msgctxt "text"
+msgid "In case of any uncertainty, children observe and imitate the behaviours of their elders 👀."
+msgstr "في حالات القلق والشك، الأطفال بيلاحظوا تصرُّفات الكبار وبيقلدوهم 👀."
+
+#. type=text
+msgctxt "text"
+msgid "Children can learn to be calm from us, which helps them face challenges 🌸."
+msgstr "الأطفال بيتعلّموا الهدوء منّا، وهاد بيساعدهم يواجهوا التحديّات 🌸."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 4️⃣ tips that can help you cope with negative emotions while encouraging children:"
+msgstr "اضغط تشغيل ▶️ عشان تتعلم 4️⃣ نصائح تساعدك على التعامُل مع المشاعر السلبيّة وبنفس الوقت تشجّع أطفالك:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **SHARE YOUR FEELINGS**"
+msgstr "1️⃣**عبّر عن مشاعرك**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **BREATHE**"
+msgstr "2️⃣**تنفّس**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **REASSURE YOUR CHILD**"
+msgstr "3️⃣**طمّن طفلك**"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **THERE ARE PEOPLE WHO CARE**"
+msgstr "4️⃣**في ناس مهتمين فيك**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 4️⃣ tips that can help you cope with negative emotions and also encourage your children:"
+msgstr "هاي 4️⃣ نصائح بتساعدك تتعامل مع المشاعر السلبيّة وتشجّع أطفالك كمان:"
+
+#. type=text
+msgctxt "text"
+msgid "When you are feeling stress, tension or anger, find someone who you can share your feelings with, like a family member or friend."
+msgstr "لمّّا تحس بالضغط، أو التوتُّر أو الغضب، دوّر على حدا ممكن تحكي عن مشاعرك معاه، زي فرد من العائلة أو صديق."
+
+#. type=text
+msgctxt "text"
+msgid "Avoid substance abuse as a stress coping mechanism."
+msgstr "تجنّب تعاطي المواد المُخدرة كطريقة للتعامُل مع الضغط."
+
+#. type=text
+msgctxt "text"
+msgid "If your stress feels overwhelming, you can contact an organization or helpline for extra support. Type {HELP} after these tips for more information🤲."
+msgstr "إذا حسيت إنه الضغط فوق تحمّلك، فيك تتواصل مع منظّمة أو خط مُساعدة للدعم. اكتب {HELP} بعد هاي النصائح عشان تُحصُل على معلومات أكتر 🤲."
+
+#. type=text
+msgctxt "text"
+msgid "When you feel extremely angry, take a ten-second break or pause before you engage with anyone, including your children ⏸️."
+msgstr "لمّا تحس بغضب شديد، خُد استراحة لمدّة عشر ثوان أو وقّف قبل ما تتعامل مع أي حدا، من ضمنهم أطفالك ⏸️."
+
+#. type=text
+msgctxt "text"
+msgid "Take five deep breaths🌬️."
+msgstr "خُد نَفَس عميق خمس مرّات 🌬️."
+
+#. type=text
+msgctxt "text"
+msgid "Then try to respond in a calmer way 🕊️."
+msgstr "بعدها حاول تردّ بطريقة أهدأ 🕊️."
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **REASSURE YOUR CHILDREN**"
+msgstr "3️⃣**طمّن أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "It’s ok to show your concern and emotions to your children 💬. This will help them learn about their own emotions. It’s also good to remind them that we believe that one day hope and justice will prevail ✨."
+msgstr "طبيعي تبيّن لأطفالك شعورك بالقلق 💬. شفافيتك بتساعدهم يتعرّفوا على مشاعرهم .منيح كمان تذكرّهم إنا مؤمنين بإنه الأمل والعدل رح ينتصروا بيوم من الأيام ✨."
+
+#. type=text
+msgctxt "text"
+msgid "Reassure your children that one day, war will end and our community will be able to rebuild and thrive together 🌿."
+msgstr "طمّن أطفالك إنّه بيوم من الأيام، راح تنتهي الحرب ومجتمعنا رح يقدر يرجع يبني نفسه مع بعض و يزدهر 🌿."
+
+#. type=text
+msgctxt "text"
+msgid "Share stories with them of how people in the past have worked together and come out of traumatic situations 📖."
+msgstr "احكيلهم قصص عن كيف الناس بالماضي تعاونوا وطلعوا من المواقف الصعبة 📖."
+
+#. type=text
+msgctxt "text"
+msgid "Assure your children that friends, relatives, or charitable organisations will try to find ways to help them in these situations 🤲."
+msgstr "طمّن أطفالك إنّّه الأصدقاء أو الأقارب أو الجمعيات الخيرية راح يحاولوا يلاقوا طُرق تساعدهم بهيك ظروف 🤲."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being here with us today 💙. Be proud of yourself every time you manage your negative feelings and encourage your children. You are an amazing parent! ✨"
+msgstr "شكرًا لإنك كنت معنا اليوم 💙. خلّيك فخور بحالك كل مرّة بتقدر تتعامل مع المشاعر السلبيّة وتشجّع أطفالك. إنت والد رائع! ✨"
+
+#. type=text
+msgctxt "text"
+msgid "In today's tips, we will talk about some simple safety plans you can make with your children 📝."
+msgstr "في نصائح اليوم رح نحكي عن شوية خطط أمان بسيطة ممكن تعملها مع أطفالك 📝."
+
+#. type=text
+msgctxt "text"
+msgid "It can help your children when they see that you have plans 💙."
+msgstr "الأطفال بيرتاحوا لمّا يشوفوا إنك عندك خطّة و ماخد إحتياطاتك للأمان💙."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 4️⃣ tips to help you get ready to travel with children in a crisis situation:"
+msgstr "اضغط تشغيل ▶️ عشان تتعرّف على 4️⃣ نصائح بتساعدك على الإستعداد للسفر مع أطفالك في وقت الأزمات:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **PROTECT YOUR DOCUMENTS**"
+msgstr "1️⃣**احفظ مستنداتك**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **HIDE MONEY**"
+msgstr "2️⃣**خبّي المصاري**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **SUPERVISE YOUR CHILDREN**"
+msgstr "3️⃣**راقب أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **COMMUNICATE WITH YOUR CHILDREN**"
+msgstr "4️⃣**تواصل مع أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 4️⃣ tips to help you plan for safety with your children:"
+msgstr "هاي 4️⃣ نصائح بتساعدك تخطّط للأمان مع أطفالك:"
+
+#. type=text
+msgctxt "text"
+msgid "Take pictures 📷 or make copies of any identity documents or cards and hide these in separate secure places 🛡️."
+msgstr "خد صور 📷  أوإعمل نُسَخ عن كل المستندات المهمّة وخبّي النُسَخ في أماكن مختلفة و آمنة🛡️."
+
+#. type=text
+msgctxt "text"
+msgid "Also hide any money you have separately in different places, so that if something is lost, you won’t lose everything 💙."
+msgstr "وكمان خبّي أي مصاري معاك بأماكن مختلفة وآمنه، عشان لو ضاع إشي، ما تخسر كل المصاري 💙."
+
+#. type=text
+msgctxt "text"
+msgid "🤍 Try your best to keep children with you or someone you trust."
+msgstr "🤍حاول قد ما تقدر تخلّي أطفالك معك أو مع شخص بتوثق به."
+
+#. type=text
+msgctxt "text"
+msgid "Make sure you know that the people your children spend time with in person and online are trustworthy ✔️."
+msgstr "اتأكد إنّك بتِثِق ابلأشخاص اللي أطفالك بيقضوا وقت معهم، سواء وجهًا لوجه أو أونلاين ✔️."
+
+#. type=text
+msgctxt "text"
+msgid "Tell your children they should not spend time outside alone after dark 🚫 or take a lift with someone alone."
+msgstr "نبّه أطفالك إنهم يتجنّبوا التواجد في الخارج خلال ساعات العتمة🚫، و ما يقبلوا يركبوا مع أي شخص لوحدهم."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us today. 🌟 Praise yourself for doing the best you can."
+msgstr "شكرًا إنك كنت معانا االيوم. 🌟 امدح حالك لأنّك عم تعمل أفضل ما في وسعك."
+
+#. type=text
+msgctxt "text"
+msgid "In these tips, we will talk about ways you can be prepared to travel safely with your children 💙."
+msgstr "في هاي النصائح، رح ننحكي عن طُرق ممكن تستعد فيها للسفر بأمان مع أطفالك 💙."
+
+#. type=text
+msgctxt "text"
+msgid "Your children will feel reassured knowing you have a plan 📝."
+msgstr "أطفالك رح يحسّوا بالأمان لمّا يعرفوا إنه عندك خطّة 📝."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 3 things you can do to ensure that you and your children are as safe as possible when you are on the move:"
+msgstr "اضغط تشغيل ▶️ عشان تتعلم 3 شغلات بتقدر تعملها عشان تضمن سلامتك إنت وأطفالك قدر الإمكان في أثناء التنقُّل:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **MOVE SAFELY**"
+msgstr "1️⃣**تحرّك بأمان**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **PREPARE YOUR CHILDREN**"
+msgstr "2️⃣**جهّز أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **MAKE A SAFETY NOTE**"
+msgstr "3️⃣**اكتُب ورقة أمان**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 3️⃣ things you can do to ensure that you and your children are as safe as possible when you are on the move:"
+msgstr "هاي 3️⃣ شغلات بتقدر تعملها عشان تضمن سلامتك إنت وأطفالك قدر الإمكان في أثناء التنقُّل:"
+
+#. type=text
+msgctxt "text"
+msgid "🔒 Travel in a group of people you know, and don’t give any ID documents or cards to anyone, where possible."
+msgstr "🔒سافر مع مجموعة من الناس اللي بتعرفهم، وحاول ما تعطي أي مستندات أو بطاقات هويّة لأي حدا."
+
+#. type=text
+msgctxt "text"
+msgid "🎵Make a song or chant with your children to help them memorise your full name and phone number, and number of someone you trust."
+msgstr "🎵ألِّف أغنيّة أو أُنشودة مع أطفالك عشان تساعدهم يحفظوا إسمك الكامل ورقم تليفونك، ورقم شخص بتوثق به."
+
+#. type=text
+msgctxt "text"
+msgid "🔁 Go over it every day."
+msgstr "🔁وكرَّروها كل يوم."
+
+#. type=text
+msgctxt "text"
+msgid "📍Every day, agree on a clear place to meet if you are separated from each other."
+msgstr "📍اتفقوا كل يوم على مكان واضح تتقابلوا فيه إذا افترقتوا عن بعض."
+
+#. type=text
+msgctxt "text"
+msgid "🗒️ Make a safety note for each child."
+msgstr "🗒️حضّر ورقة أمان لكل طفل."
+
+#. type=text
+msgctxt "text"
+msgid "Write the full name & phone number of yourself and three people you trust, plus any medication your child needs and any special needs they have."
+msgstr "اكتب عليها اإاسم الكامل ورقم تلفوتك إنت وتلات أشخاص بثق فيهم، بالإضافة إلى أي أدوية بيحتاجها طفلك وأي إحتياجات خاصة عنده."
+
+#. type=text
+msgctxt "text"
+msgid "Cover the note in plastic and hide it in something they always wear."
+msgstr "غلِّف الورق بالبلاستيك وخبيها في إشي بيلبسوه دايمًا."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us 💙. You are being prepared – we are proud of you 🌟."
+msgstr "شكرًا لإنضمامك النا 💙. انت عم تستعد- إحنا فخورين فيك 🌟."
+
+#. type=text
+msgctxt "text"
+msgid "Today's tips are about protecting our children from harassment."
+msgstr "نصائح اليوم عن كيف نحمي ولادنا من التحرُّش."
+
+#. type=text
+msgctxt "text"
+msgid "During difficult times, children are more likely to face harassment."
+msgstr "في الأوقات الصعبة، بتزيد احتماليّة تعرُّض الأطفال للتحرُّش."
+
+#. type=text
+msgctxt "text"
+msgid "Talking to children about these things can help keep them safe 🛡️."
+msgstr "والحكي مع أطفالنا عن هاي المواضيع ممكن يساعد في إنهم يضلّوا بأمان."
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 3️⃣ tips for protecting your children from harassment:"
+msgstr "اضغط تشغيل ▶️ عشان تتعرّف على 3️⃣نصائح بتساعدك في حماية أطفالك من التحرُّش:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **"NO" IS OK!**"
+msgstr "1️⃣**عادي تقول "لأ"!**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **TEACH YOUR CHILDREN**"
+msgstr "2️⃣**علِّم أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **COMFORT YOUR CHILDREN**"
+msgstr "3️⃣**طمِّن أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 3️⃣ tips for protecting your children from harassment:"
+msgstr "هاي 3️⃣ نصائح لحماية أطفالك من التحرُّش:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **”NO” IS OK!**"
+msgstr "1️⃣**عادي تقول "لأ"!**"
+
+#. type=text
+msgctxt "text"
+msgid "Teach your children that nobody has the right to touch them."
+msgstr "علِّم أطفالك إنه ما بيحق لحدا يلمسهم."
+
+#. type=text
+msgctxt "text"
+msgid "In order to stop someone who tries to do that, practice saying and shouting “NO” with your children."
+msgstr "وعشان توقّف شخص بيحاول يعمل هيك، اتمرّن مع أطفالك إنكم تقولوا "لأ" بصوت عالي."
+
+#. type=text
+msgctxt "text"
+msgid "Talk to your children about dangerous people and places. Make plans together about how to avoid danger."
+msgstr "احكي مع أطفالك عن الناس والأماكن الخطيرة. وخطِّطوا مع بعض كيف تتجنّبوا الخطر."
+
+#. type=text
+msgctxt "text"
+msgid "If your children tell you they were abused, always believe them."
+msgstr "لو حكولك أطفالك إنّهم تعرّضوا للإساءة، صدّقهم دايمًا."
+
+#. type=text
+msgctxt "text"
+msgid "Tell them that it’s not their fault and you love them 💙."
+msgstr "فهِّمهم إنه هاد مش غلطهم وإنك بتحبهم  💙."
+
+#. type=text
+msgctxt "text"
+msgid "You can type {HELP} for resources if your children share about abuse with you."
+msgstr "اكتب {HELP} عشان تُحصل على موارد تساعدك لو حكولك أطفالك إنهم تعرّضوا لإساءة."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us today💙. Remember that talking to children about these things helps keep them safe."
+msgstr "شكرًا إنك كنت معانا اليوم 💙. تذكَّر إنه الحكي مع الأطفال عن هاي المواضيع بيحميهم."
+
+#. type=text
+msgctxt "text"
+msgid "These tips are about helping your children in the case of loved ones dying."
+msgstr "هاي النصائح لمساعدتك في دعم أطفالك في حالة فقدانهم لشخص عزيز عليهم."
+
+#. type=text
+msgctxt "text"
+msgid "Losing a loved one is painful for everyone, including children."
+msgstr "فقدان شخص عزيز مؤلم لكل الناس، وللأطفال كمان."
+
+#. type=text
+msgctxt "text"
+msgid "It is possible that your children appear to be happy but deep inside are sad."
+msgstr "ممكن أطفالك ببينوا إنهم مبسوطين لكنهم في أعماقهم زعلانين."
+
+#. type=text
+msgctxt "text"
+msgid "Talking to your children about death can be hard, but it will help them make sense of what is happening."
+msgstr "الحكي مع أطفالك عن الموت ممكن يكون صعب، لكن رح يساعدهم يفهموا اللي عم بصير حواليهم."
+
+#. type=text
+msgctxt "text"
+msgid "Here are 5️⃣ tips on how to help your children when loved ones die:"
+msgstr "هاي 5️⃣ نصائح لمساعدة أطفالك في حالة وفاة أحد الأحباء:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **TALK WITH CHILDREN**"
+msgstr "1️⃣**إحكي مع أطفالك**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **LISTEN AND ACCEPT**"
+msgstr "2️⃣**اسمعهم وتقبّل مشاعرهم**"
+
+#. type=text
+msgctxt "text"
+msgid "3️⃣ **SAY GOODBYE**"
+msgstr "3️⃣**خلّيهم يودّعوا اللي فقدوه**"
+
+#. type=text
+msgctxt "text"
+msgid "4️⃣ **NO BLAMING**"
+msgstr "4️⃣**مافي لوم**"
+
+#. type=text
+msgctxt "text"
+msgid "5️⃣ **BE CLEAR**"
+msgstr "5️⃣ **كون واضح**"
+
+#. type=text
+msgctxt "text"
+msgid "Children often sense the pain of loss or death, even if they don't know yet what happened."
+msgstr "الأطفال بيحسّوا عادةً بألم الخسارة أو الموت حتّى لو لسى مش عارفين شو اللي صار."
+
+#. type=text
+msgctxt "text"
+msgid "Tell them in simple and honest words that the person has passed away."
+msgstr "إحكي معهم بكلمات بسيطة وصادقة إنه الشخص تُوفى."
+
+#. type=text
+msgctxt "text"
+msgid "💙Be sensitive to their emotions and try to create a compassionate space when you talk with them about the death of loved ones."
+msgstr "كون حسَّاس تجاه مشاعرهم وحاول تهيأ جو مليان حنان لمّا تحكي معهم عن وفاة أحد الأحباء."
+
+#. type=text
+msgctxt "text"
+msgid "Listen to your children. Accept anything they are feeling and show them affection."
+msgstr "اسمع لأطفالك، وتقبّل أي شعور بيحسّوا فيه وعبّرلهم عن محبّتك."
+
+#. type=text
+msgctxt "text"
+msgid "Do something together to say goodbye to the person who had died – consider a prayer 🤲 or a letter 📃."
+msgstr "اعمل إشي معهم عشان تودعوا الشخص المُتوفي: ممكن تصلّوا 🤲 أو تكتبوا رسالة 📃."
+
+#. type=text
+msgctxt "text"
+msgid "Sometimes we feel like loss is our fault, even when it is not, and children may feel this way too."
+msgstr "أحيانًا بنحس إنه الخسارة غلطتنا، و هو بالحقيقة مش ذنبنا، والأطفال ممكن يحسّوا بنفس الإشي."
+
+#. type=text
+msgctxt "text"
+msgid "Many people have these feelings. Remind yourself it’s not your fault and help your children see it’s not their fault either 💙."
+msgstr "في ناس كتير بتراودهم هاي المشاعر.  ذكّر حالك إنّه مش ذنبك، وساعد أطفالك يفهموا إنّه مش ذنبهم كمان 💙."
+
+#. type=text
+msgctxt "text"
+msgid "Tell children clearly who will be taking care of them now, if a change needs to happen."
+msgstr "إحكي مع الأطفال بصراحة مين رح يصير يهتم فيهم هلأ، في حال لِزم الأمر."
+
+#. type=text
+msgctxt "text"
+msgid "Let us understand how children of different ages react to death so we can support them."
+msgstr "خلّّونا نفهم كيف الأطفال من أعمار مختلفة بيتعاملوا مع الموت عشان نقدر ندعمهم."
+
+#. type=text
+msgctxt "text"
+msgid "Small children under the age of 5 years may ask if the person who has died is coming back."
+msgstr "الأطفال الصغار تحت سن ال 5 سنين ممكن يسألوا إذا كان الشخص اللي مات رح يرجع."
+
+#. type=text
+msgctxt "text"
+msgid ";"
+msgstr ";"
+
+#. type=text
+msgctxt "text"
+msgid "They might hold onto you or other caregivers more or start doing things they used to do when they were younger, like wetting the bed."
+msgstr "وممكن يتعلّّقوا فيك أو في الأشخاص اللي بيرعوهم أكثر، أو يرجعوا يعملوا شغلات كانوا يعملوها وهم أصغر، زي التبوّل في الفراش."
+
+#. type=text
+msgctxt "text"
+msgid "Older children between 6 and 11 years old may ask more questions and want to understand what happened."
+msgstr "الأطفال الأكبر بين سن ال6 و11 سنة ممكن يسألوا أسئلة أكتر ويحاولوا يفهموا اللي صار."
+
+#. type=text
+msgctxt "text"
+msgid "They may show their grief through anger and experience physical aches or pains."
+msgstr "وممكن يعبّروا عن حزنهم بالغضب والشعور بآلام الجسديّة."
+
+#. type=text
+msgctxt "text"
+msgid "Adolescents and young teenagers from around the age of 12 years will wonder about why things happen."
+msgstr "المراهقين بعمر ال12 سنة و فوق ممكن يسألوا ليش بتصير الأمور."
+
+#. type=text
+msgctxt "text"
+msgid "Their reactions will vary and can include lack of interest, anger, extreme sadness and poor concentration."
+msgstr "ردود أفعالهم بتختلف. ممكن يظهروا عدم الاهتمام، أوالعصبيّة، أو الحُزن العميق، أو صعوبة التركيز."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for joining us."
+msgstr "شكراً على إنضمامك إلنا."
+
+#. type=text
+msgctxt "text"
+msgid "If your grief feels overwhelming, contact a trusted person, organisation or helpline by typing {HELP}."
+msgstr "لو كان شعورك بالحزن فوق تحمّلك، احكي مع شخص بتثق فيه، أو منظَّمة، أو خط مُساعدة بكتابة {HELP}."
+
+#. type=text
+msgctxt "text"
+msgid "Take some moments for yourself to grieve for your losses 💔. Grieving is the pathway to healing for you and your children."
+msgstr "خد لحظات لحالك عشان تحزن على خسارتك 💔. لأنه الحُزن هو طريق للشفاء إلك ولأطفالك."
+
+#. type=text
+msgctxt "text"
+msgid "Congratulations on reaching our final set of tips! 🎉 Here we are talking about ways to build your and your children’s strength and to encourage good behaviours in them."
+msgstr "وصلنا لآخر مجموعة من النصائح،أبدعت! 🎉 هاي النصائح بتورجينا طرق نستمدّ فيها قوّة إلنا و لأطفالنا و نشجّع و نعزز السلوكيات المنيحة بأطفالنا."
+
+#. type=text
+msgctxt "text"
+msgid "Even in these times that are so hard, there is hope that you can build strength, and when your children sense your love and appreciation, it helps them build their own strength, too. 🦋"
+msgstr "حتى في أصعب الأوقات ،في أمل إنك تقدر تستجمع قوتك، ولمّا أطفالك يحسّوا بمحبّتك وتقديرك، همّة كمان،  بستمدّوا قوّة إلهم . 🦋"
+
+#. type=text
+msgctxt "text"
+msgid "Press Play ▶️ to learn 2️⃣ simple tips that can help you encourage your children to build strength:"
+msgstr "اضغط تشغيل ▶️ عشان تتعلم 2️⃣ نصيحتين بسيطتين لمساعدتك في تشجيع أطفالك يصيروا أقوى:"
+
+#. type=text
+msgctxt "text"
+msgid "1️⃣ **INVOLVE YOUR CHILDREN**"
+msgstr "1️⃣**خلّي أطفالك يشاركوا**"
+
+#. type=text
+msgctxt "text"
+msgid "2️⃣ **PRAISE THEM**"
+msgstr "2️⃣**امدحهم**"
+
+#. type=text
+msgctxt "text"
+msgid "Here are 2️⃣ simple tips that can help you to encourage your children to build strength:"
+msgstr "هاي 2️⃣ نصيحتين بسيطتين لمساعدتك في تشجيع أطفالك يصيروا أقوى:"
+
+#. type=text
+msgctxt "text"
+msgid "Ask children to help in simple chores 💪. This will give them a sense of responsibility."
+msgstr "اطلُب من الأطفال يساعدوا في أعمال بسيطة 💪. هادا الإشي بخلّيهم يحسّوا بالمسؤوليّة."
+
+#. type=text
+msgctxt "text"
+msgid "💙Appreciate children when they are trying or doing something good."
+msgstr "💙 قدَّر الأطفال  و إمدحهم لمّا يكونوا بحاولوا أو بيعملوا  إشي منيح."
+
+#. type=text
+msgctxt "text"
+msgid "This will help them to do good again."
+msgstr "التقدير رح يخلّيهم بدهم يضلّوا يعملوا أشياء منيحة."
+
+#. type=text
+msgctxt "text"
+msgid "🌟 Praising children shows them that you notice and care, and helps build confidence."
+msgstr "🌟 مدح و تقديرالأطفال بخلّيهم يدركوا إنّك ملاحظهم ومهتم بأمورهم، و بيبني ثقتهم بنفسهم."
+
+#. type=text
+msgctxt "text"
+msgid "You can also build your own strength 💪 by remembering that you are not alone."
+msgstr "ممكن كمان تستمد قوّتك 💪 لمّا تتذكّر إنّك مش لحالك."
+
+#. type=text
+msgctxt "text"
+msgid "Sharing your sorrow and worries with someone you trust often helps lighten the burden 🤝."
+msgstr "غالبًا لمّا بتشارك حزنك وهمومك مع شخص بتوثق فيه، بتحس إنه الحِمل صار أخف شوي 🤝."
+
+#. type=text
+msgctxt "text"
+msgid "If your sorrow and worries feel overwhelming, please contact a trusted person, organisation or helpline. Type {HELP} after these tips for more information."
+msgstr "لو حسيت إنه حزنك وهمومك فوق احتمالك، من فضلك إحكي مع شخص بتوثق فيه، أو مُنظَّمة، أو خط مُساعدة. أكتُب {HELP} بعد هاي النصائح عشان تعرف معلومات أكتر."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for being here with us today and for all our tips 💙. You are doing so much to care for yourself and your children."
+msgstr "شكرًا إنك كنت معانا اليوم وتابعت كل نصائحنا 💙. إنت عم تبذل جهد كبير عشان تهتم بحالك وبأطفالك."
+
+#. type=text
+msgctxt "text"
+msgid "Remember that appreciating your children makes them realise that you give them attention and love 🤍. You can be proud of yourself.  You are truly great 🌟!"
+msgstr "تذكّّر إنه تقدير أطفالك بخلّيهم يحسّوا إنّك مهتم فيهم وبتحبهم 🤍. لازم تفتخر بحالك، إنت أب رائع بالفعل 🌟!"
+
+#. type=text
+msgctxt "text"
+msgid "**Let's take a pause together.**"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Remember, this is something you can do whenever you are feeling stressed."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Press ▶️ to take a pause together."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking a moment to pause with us. It's time for today's tips."
+msgstr "شكراً لأنك أخدت وقت إستراحة معنا. هلا إجى وقت نصائح اليوم."
+
+#. type=text
+msgctxt "text"
+msgid "**Let’s take a pause together.**"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Whenever you’re feeling stressed, remember that taking a pause like this can help you feel more grounded and calm."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Sometimes when we are experiencing stress or feeling alone, it can be helpful to send thoughts of loving kindness to ourselves."
+msgstr "أحيانًا لمّا بنشعر بالضغط أو الوحدة، ممكن يكون مفيد نفكّر مع حالنا بأفكار مليانة محبّة ولُطف."
+
+#. type=text
+msgctxt "text"
+msgid "Take a moment to reflect on your experience."
+msgstr "وقِّف لحظة عشان تتأمّل في تجربتك."
+
+#. type=text
+msgctxt "text"
+msgid "When you are ready, continue to today's tips with a sense of calm."
+msgstr "لمّا تِجهز، كمّل نصائح اليوم و إنت بتشعر بالهدوء."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking a moment to pause with us."
+msgstr "شكراً لأنك خدت لحظة استراحة معانا."
+
+#. type=text
+msgctxt "text"
+msgid "You can do this anytime you feel stressed or worried."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "NEXT"
+msgstr "التالي"
+

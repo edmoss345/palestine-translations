@@ -1,0 +1,485 @@
+#. type=text
+msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "مبين إنه الوقت مش مناسب. إذا بتحب تكمّل، اكتب رقم 1."
+
+#. type=text
+msgctxt "text"
+msgid "We’ll ask 3 quick questions first 💬"
+msgstr "رح نسألك 3 أسئلة سريعة بالأول 💬"
+
+#. type=text
+msgctxt "text"
+msgid "This helps us share tips that are right for families like yours 💔🕊️"
+msgstr "هاد بساعدنا نشارك نصائح مناسبة لعائلات زي عيلتك 💔🕊️"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "آسف، ما فهمت شو قصدك."
+
+#. type=text
+msgctxt "text"
+msgid "Over the last week, how often have you been bothered by feeling down, depressed, or hopeless?"
+msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق أو حزن، أو اكتئاب، أو إنّه ما في أمل؟"
+
+#. type=text
+msgctxt "text"
+msgid "Over the last week, how often have you been bothered by little interest or pleasure in doing things?"
+msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق لأنك ما بدك تعمل إشي أو مش مستمتع؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you play with your children or help them learn something new?"
+msgstr "كم يوم بالأسبوع الماضي لعبت مع أولادك أو ساعدتهم يتعلّموا إشي جديد؟"
+
+#. type=text
+msgctxt "text"
+msgid "Before we continue, would you like to answer 5 quick questions? 📝"
+msgstr "قبل ما نكمّل، بتحب تجاوب على ٥ أسئلة سريعة؟ 📝"
+
+#. type=text
+msgctxt "text"
+msgid "Your answers will help us make these tips better for parents and children finding strength and hope during war, displacement, and other tough times 💔🌱"
+msgstr "إجاباتك رح تساعدنا نطوّر النصائح لدعم الأهالي والأطفال اللي بيبحثوا عن القوة والأمل بأوقات الحرب والتهجير والظروف الصعبة 💔🌱"
+
+#. type=text
+msgctxt "text"
+msgid "That's ok, you will get more tips tomorrow."
+msgstr "تمام، رح توصلك نصائح جديدة بكرة."
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you do something to keep your child(ren) safe, such as make sure they don't spend time alone with unknown adults/children or walk home alone outside after dark?"
+msgstr "كم يوم بالأسبوع الماضي عملت إشي لتحافظ على أمان طفلك (أطفالك)، زي إنَّك ما تخليهم يقضوا وقت لحالهم مع ناس غريبة أو ما يرجعوا لحالهم للبيت بعد العتمة؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you shout, yell, or scream at your child(ren)?"
+msgstr "كم يوم بالأسبوع الماضي علّيت صوتك أو صرخت في طفلك (أطفالك)؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you discipline your child(ren) physically, such as hitting them with your hand or another object?"
+msgstr "كم يوم بالأسبوع الماضي عاقبت أولادك جسديًا بضربهم بإيديك أو بإشي تاني؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you try to speak calmly with your child when you were upset with them?"
+msgstr "كم يوم بالأسبوع الماضي حاولت تحكي مع ابنك بهدوء رغم إنّك كنت معصّب منه؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you have a meaningful conversation with your child(ren) about how they’re doing amidst the current war, displacement, and other tough times?"
+msgstr "كم يوم بالأسبوع الماضي كان عندك محادثة عميقة مع أولادك بتسألهم عن وضعهم وسط الحرب والتهجير والصعوبات اللي بتمروا فيها؟"
+
+#. type=text
+msgctxt "text"
+msgid "Just 3 more quick questions 💬"
+msgstr "كمان بس ٣ أسئلة سريعة  💬"
+
+#. type=text
+msgctxt "text"
+msgid "This helps us give tips that truly help parents like you."
+msgstr "هاد بيساعدنا نقدّم نصائح فعلاً بتفيد أهالي مثلك."
+
+#. type=text
+msgctxt "text"
+msgid "What is your current living situation?"
+msgstr "شو وضعك السكني الحالي؟"
+
+#. type=text
+msgctxt "text"
+msgid "What is your home nationality?"
+msgstr "شو جنسيتك الأصلية؟"
+
+#. type=text
+msgctxt "text"
+msgid "How long have you been displaced from your home?"
+msgstr "قديش صار لك من وقت ما تركت بيتك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for answering ♥️  We’ll see you back for the next tip soon 👏"
+msgstr "شكراً لإجابتك ♥️ رح نشوفك عن قريب مع النصيحة الجاي 👏"
+
+#. type=text
+msgctxt "text"
+msgid "Lastly, today we want to ask 2 questions to make these tips better for others 🎉"
+msgstr "اليوم بدنا نسألك سؤالين عشان نحسّن هالنصائح لغيرك 🎉"
+
+#. type=text
+msgctxt "text"
+msgid "Did these parenting tips help you and your family during war, displacement or other tough times?"
+msgstr "هل نصائح التربية هاي ساعدتك إنت وعيلتك خلال الحرب أو التهجير أو الأوقات الصعبة؟"
+
+#. type=text
+msgctxt "text"
+msgid "From using these tips, have you reached out to a trusted friend, family member, person, organisation, or helpline for support?"
+msgstr "هل تواصلت مع صديق موثوق، أو فرد من العائلة، أو منظّمة، أو خط مساعدة للدعم، بواسطة استخدامك للنصائح هاي؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thanks for your responses! You will help make ParentText better for families 🎉See you back for another tip soon."
+msgstr "شكراً على إجاباتك! رح تساعد في تحسين نصائح للأهالي 🎉 بنشوفك عن قريب مع نصيحة جديدة."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you so much for participating in these tips! You are so brave and such an amazing caregiver."
+msgstr "شكراً كتير لمشاركتك بهالنصائح! إنت شجاع كتير وراعي رائع لعائلتك."
+
+#. type=text
+msgctxt "text"
+msgid "Today you will receive your final tips. First, we have 3 questions to ask about how you and your children are doing. ❤️"
+msgstr "اليوم رح توصلك آخر نصائح! بس بالأول في عنا ٣ أسئلة عن كيف حالك إنت وأولادك. ❤️"
+
+#. type=text
+msgctxt "text"
+msgid "NEXT"
+msgstr "التالي"
+
+#. type=text
+msgctxt "text"
+msgid "Not at all"
+msgstr "أبدًا"
+
+#. type=text
+msgctxt "text"
+msgid "Some days"
+msgstr "بعض الأيام"
+
+#. type=text
+msgctxt "text"
+msgid "More than half the days"
+msgstr "أكتر من نص الأيام"
+
+#. type=text
+msgctxt "text"
+msgid "Nearly every day"
+msgstr "كل يوم تقريبًا"
+
+#. type=text
+msgctxt "text"
+msgid "Prefer not to answer"
+msgstr "بفضّل ما أجاوب"
+
+#. type=text
+msgctxt "text"
+msgid "0 days"
+msgstr "ولا يوم"
+
+#. type=text
+msgctxt "text"
+msgid "1 day"
+msgstr "يوم واحد"
+
+#. type=text
+msgctxt "text"
+msgid "2 days"
+msgstr "يومين"
+
+#. type=text
+msgctxt "text"
+msgid "3 days"
+msgstr "3 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "4 days"
+msgstr "4 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "5 days"
+msgstr "5 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "6 days"
+msgstr "6 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "7 days"
+msgstr "7 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "Yes"
+msgstr "نعم"
+
+#. type=text
+msgctxt "text"
+msgid "No"
+msgstr "لا"
+
+#. type=text
+msgctxt "text"
+msgid "Living in a camp or shelter"
+msgstr "عايش في مُخيّم أو مأوى"
+
+#. type=text
+msgctxt "text"
+msgid "Living in a house or apartment"
+msgstr "عايش في بيت أو شقة"
+
+#. type=text
+msgctxt "text"
+msgid "Moving around often"
+msgstr "عم بغيّر مكاني كتير"
+
+#. type=text
+msgctxt "text"
+msgid "Palestinian"
+msgstr "فلسطيني"
+
+#. type=text
+msgctxt "text"
+msgid "Lebanese"
+msgstr "لبناني"
+
+#. type=text
+msgctxt "text"
+msgid "Syrian"
+msgstr "سوري"
+
+#. type=text
+msgctxt "text"
+msgid "Jordanian"
+msgstr "أردني"
+
+#. type=text
+msgctxt "text"
+msgid "Yemeni"
+msgstr "يمني"
+
+#. type=text
+msgctxt "text"
+msgid "Other"
+msgstr "بلد تاني"
+
+#. type=text
+msgctxt "text"
+msgid "My whole life"
+msgstr "حياتي كلها"
+
+#. type=text
+msgctxt "text"
+msgid "Less than 1 year"
+msgstr "أقل من عام واحد"
+
+#. type=text
+msgctxt "text"
+msgid "1-5 years"
+msgstr "من 1 إلى 5 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "5-10 years"
+msgstr "من 5 إلى 10 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "More than 10 years"
+msgstr "أكتر من 10 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "Not displaced"
+msgstr "غير مُهجَّر"
+
+#. type=text
+msgctxt "text"
+msgid "Yes, ALL of the tips helped"
+msgstr "نعم، كل النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "Yes, MANY of the tips helped"
+msgstr "نعم، كتير من النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "Yes, a FEW of the tips helped"
+msgstr "نعم، قليل من النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "NONE of the tips helped"
+msgstr "ما في ولا نصيحة فادتني"
+
+#. type=text
+msgctxt "text"
+msgid "next"
+msgstr "التالي"
+
+#. type=text
+msgctxt "text"
+msgid "not at all"
+msgstr "أبدًا"
+
+#. type=text
+msgctxt "text"
+msgid "some days"
+msgstr "بعض الأيام"
+
+#. type=text
+msgctxt "text"
+msgid "more than half the days"
+msgstr "أكتر من نص الأيام"
+
+#. type=text
+msgctxt "text"
+msgid "nearly every day"
+msgstr "كل يوم تقريبًا"
+
+#. type=text
+msgctxt "text"
+msgid "prefer not to answer"
+msgstr "بفضّل ما أجاوب"
+
+#. type=text
+msgctxt "text"
+msgid "0 days"
+msgstr "ولا يوم"
+
+#. type=text
+msgctxt "text"
+msgid "1 day"
+msgstr "يوم واحد"
+
+#. type=text
+msgctxt "text"
+msgid "2 days"
+msgstr "يومين"
+
+#. type=text
+msgctxt "text"
+msgid "3 days"
+msgstr "3 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "4 days"
+msgstr "4 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "5 days"
+msgstr "5 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "6 days"
+msgstr "6 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "7 days"
+msgstr "7 أيام"
+
+#. type=text
+msgctxt "text"
+msgid "yes"
+msgstr "نعم"
+
+#. type=text
+msgctxt "text"
+msgid "no"
+msgstr "لا"
+
+#. type=text
+msgctxt "text"
+msgid "living in a camp or shelter"
+msgstr "عايش في مُخيّم أو مأوى"
+
+#. type=text
+msgctxt "text"
+msgid "living in a house or apartment"
+msgstr "عايش في بيت أو شقة"
+
+#. type=text
+msgctxt "text"
+msgid "moving around often"
+msgstr "عم بغيّر مكاني كتير"
+
+#. type=text
+msgctxt "text"
+msgid "palestinian"
+msgstr "فلسطيني"
+
+#. type=text
+msgctxt "text"
+msgid "lebanese"
+msgstr "لبناني"
+
+#. type=text
+msgctxt "text"
+msgid "syrian"
+msgstr "سوري"
+
+#. type=text
+msgctxt "text"
+msgid "jordanian"
+msgstr "أردني"
+
+#. type=text
+msgctxt "text"
+msgid "yemeni"
+msgstr "يمني"
+
+#. type=text
+msgctxt "text"
+msgid "other"
+msgstr "بلد تاني"
+
+#. type=text
+msgctxt "text"
+msgid "my whole life"
+msgstr "حياتي كلها"
+
+#. type=text
+msgctxt "text"
+msgid "less than 1 year"
+msgstr "أقل من عام واحد"
+
+#. type=text
+msgctxt "text"
+msgid "1-5 years"
+msgstr "من 1 إلى 5 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "5-10 years"
+msgstr "من 5 إلى 10 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "more than 10 years"
+msgstr "أكتر من 10 أعوام"
+
+#. type=text
+msgctxt "text"
+msgid "not displaced"
+msgstr "غير مُهجَّر"
+
+#. type=text
+msgctxt "text"
+msgid "yes, all of the tips helped"
+msgstr "نعم، كل النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "yes, many of the tips helped"
+msgstr "نعم، كتير من النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "yes, a few of the tips helped"
+msgstr "نعم، قليل من النصائح كانت مفيدة"
+
+#. type=text
+msgctxt "text"
+msgid "none of the tips helped"
+msgstr "ما في ولا نصيحة فادتني"
+

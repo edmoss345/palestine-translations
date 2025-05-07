@@ -1,0 +1,460 @@
+#. type=text
+msgctxt "text"
+msgid "❔Before we get started, we have a few questions to make this journey personalised:"
+msgstr "❔قبل ما نبدأ، في عنّا شوية أسئلة لحتى نخصّص هالرحلة إلك:"
+
+#. type=text
+msgctxt "text"
+msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
+msgstr "📲 كيف بتحب ينبعتلك المحتوى — عن طريق النصوص والصور غالبًا أو مع إرشادات صوتية؟"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "آسف، ما فهمت شو قصدك."
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "هل إنت امرأة أم رجل؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many children do you take care of?"
+msgstr "كم عدد الأطفال اللي بتعتني فيهم؟"
+
+#. type=text
+msgctxt "text"
+msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
+msgstr "هالنصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for your time."
+msgstr "شكرًا لوقتك."
+
+#. type=text
+msgctxt "text"
+msgid "📍 Where are you located?"
+msgstr "📍 وين موقعك؟"
+
+#. type=text
+msgctxt "text"
+msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
+msgstr "هاي الفترة كتير صعبة وخطرة عليك إنت وعيلتك. وممكن هاي النصائح تكون مختلفة عن اللي إنت محتاجه بهالوقت. إنت شو حابب تعمل؟"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you decide you want these tips later, type HELLO."
+msgstr "مافي مشكلة. إذا قررت بعدين إنك بدك هالنصائح، اكتب مرحبًا."
+
+#. type=text
+msgctxt "text"
+msgid "What is your current living situation?"
+msgstr "شو وضعك السكني الحالي؟"
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr "قديش عمرك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Please select your language:"
+msgstr "يُرجى اختيار لغتك:"
+
+#. type=text
+msgctxt "text"
+msgid "من فضلك ادخل اللغة"
+msgstr "من فضلك ادخل اللغة"
+
+#. type=text
+msgctxt "text"
+msgid "The tips you will receive in this programme have been developed with support from Sanadak, Anar for Empowerment and Psychosocial Support, World Without Orphans, and Parenting for Lifelong Health."
+msgstr "النصائح اللي رح تستقبلها بهالبرنامج تم تطويرها بدعم من "سَنًدَك"، و"أنَارَ" للتمكين والدعم النفسي، و"عالم بلا أيتام"، و"التربية من أجل صحة مستدامة"."
+
+#. type=text
+msgctxt "text"
+msgid "🧡 You are a great parent. Thank you for joining us."
+msgstr "🧡إنتو أهل رائعين. شكرًا على انضمامكم إلنا."
+
+#. type=text
+msgctxt "text"
+msgid "✅ Participating in ParentText is optional."
+msgstr "✅ المشاركة في نصائح للوالدين اختيارية."
+
+#. type=text
+msgctxt "text"
+msgid "✅ We won’t ever ask for your name. Anything you share is safe, private, and anonymous."
+msgstr "✅ إحنا ما رح نطلب اسمك أبداً. كل شيء بتشاركه آمن، وخاص، ومجهول الهوية."
+
+#. type=text
+msgctxt "text"
+msgid "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you."
+msgstr "✅ معلوماتك المجهولة ممكن يتم مشاركتها مع اللي بيشتغلوا لمساعدة عائلات زي عائلتك لبناء القوة والأمل في الأوقات الصعبة. كل معلوماتك رح تكون خاصة وما رح يقدر حدا يربطها فيك."
+
+#. type=text
+msgctxt "text"
+msgid "❌You can stop when you want. Just type {STOP}"
+msgstr "❌فيك توقّف وقت ما بدك. بس اكتب {STOP}"
+
+#. type=text
+msgctxt "text"
+msgid "ParentText Terms and Conditions are available here: {consent_link}."
+msgstr "شروط وأحكام نصائح للوالدين متوفرة هون: {consent_link}."
+
+#. type=text
+msgctxt "text"
+msgid "Press YES if you understand and want to receive ParentText.. Type 'EXIT' if you do not wish to participate."
+msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوالدين. اكتب 'خروج' إذا ما بدك تشارك."
+
+#. type=text
+msgctxt "text"
+msgid "Thank you! 🤲 We hope these tips will help you build strength and hope for you and your family."
+msgstr "شكراً إلك! 🤲 نتمنى هالنصائح تساعدك تستمدّ القوة والأمل إلك ولعائلتك."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
+msgstr "هل أنت متأكد إنك ما بدك توصلك هالرسائل؟ إذا ما بدك توصلك أي رسائل تانية، اكتب لا. إذا كنت غلطت، اضغط الرجوع واختر اختيار تاني."
+
+#. type=text
+msgctxt "text"
+msgid "Thanks for answering our questions. We're ready to get started. 💚"
+msgstr "شكراً على إجاباتك لأسئلتنا. إحنا جاهزين نبلش. 💚"
+
+#. type=text
+msgctxt "text"
+msgid "To start, you can watch this video to learn about ParentText."
+msgstr "عشان تبدأ، فيك تشوف هالفيديو لتتعرّف على نصائح للوالدين."
+
+#. type=text
+msgctxt "text"
+msgid "Variables have been reset"
+msgstr "تم إعادة ضبط المتغيّرات"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText. Every parent everywhere needs support. We hope we can help. 💚"
+msgstr "مرحبًا في نصائح للوالدين. كل أب وأم بحاجة للدعم. بنتمنى إنه نقدر نساعدكم. 💚"
+
+#. type=text
+msgctxt "text"
+msgid "I'm sorry. I don't understand. Please enter a number 0-30."
+msgstr "آسف، ما فهمت. من فضلك أدخل رقم بين 0 و 30."
+
+#. type=text
+msgctxt "text"
+msgid "Text / Images"
+msgstr "نص/ صور"
+
+#. type=text
+msgctxt "text"
+msgid "Audio"
+msgstr "ملف صوتي"
+
+#. type=text
+msgctxt "text"
+msgid "Woman"
+msgstr "امرأة"
+
+#. type=text
+msgctxt "text"
+msgid "Man"
+msgstr "رجل"
+
+#. type=text
+msgctxt "text"
+msgid "nan"
+msgstr "لا شيء"
+
+#. type=text
+msgctxt "text"
+msgid "One to three"
+msgstr "من واحد لثلاثة"
+
+#. type=text
+msgctxt "text"
+msgid "More than four"
+msgstr "أكتر من أربعة"
+
+#. type=text
+msgctxt "text"
+msgid "I want the tips"
+msgstr "بدي النصائح"
+
+#. type=text
+msgctxt "text"
+msgid "I do not want the tips"
+msgstr "ما بدي النصائح"
+
+#. type=text
+msgctxt "text"
+msgid "Jordan"
+msgstr "الأردن"
+
+#. type=text
+msgctxt "text"
+msgid "Gaza"
+msgstr "غزة"
+
+#. type=text
+msgctxt "text"
+msgid "West Bank"
+msgstr "الضفة الغربية"
+
+#. type=text
+msgctxt "text"
+msgid "Lebanon"
+msgstr "لبنان"
+
+#. type=text
+msgctxt "text"
+msgid "Egypt"
+msgstr "مصر"
+
+#. type=text
+msgctxt "text"
+msgid "Syria"
+msgstr "سوريا"
+
+#. type=text
+msgctxt "text"
+msgid "Yemen"
+msgstr "اليمن"
+
+#. type=text
+msgctxt "text"
+msgid "Other"
+msgstr "أخرى"
+
+#. type=text
+msgctxt "text"
+msgid "Living in a camp or shelter"
+msgstr "عايش في مُخيّم أو مأوى"
+
+#. type=text
+msgctxt "text"
+msgid "Living in a house or apartment"
+msgstr "عايش في بيت أو شقة"
+
+#. type=text
+msgctxt "text"
+msgid "Moving around often"
+msgstr "عم بغيّر مكاني كتير"
+
+#. type=text
+msgctxt "text"
+msgid "Prefer not to say"
+msgstr "بفضّل ما أجاوب"
+
+#. type=text
+msgctxt "text"
+msgid "Under 16 years old"
+msgstr "أقل من 16 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "16-19 years old"
+msgstr "من 16 إلى 19 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "20-35 years old"
+msgstr "من 20 إلى 35 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "Over 35 years old"
+msgstr "أكتر من 35 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "English"
+msgstr "اللغة الإنجليزية"
+
+#. type=text
+msgctxt "text"
+msgid "اللغة العربية"
+msgstr "اللغة العربية"
+
+#. type=text
+msgctxt "text"
+msgid "Arabic"
+msgstr "اللغة العربية"
+
+#. type=text
+msgctxt "text"
+msgid "YES"
+msgstr "نعم"
+
+#. type=text
+msgctxt "text"
+msgid "BACK"
+msgstr "الرجوع"
+
+#. type=text
+msgctxt "text"
+msgid "NEXT"
+msgstr "التالي"
+
+#. type=text
+msgctxt "text"
+msgid "text / images"
+msgstr "نص / صور"
+
+#. type=text
+msgctxt "text"
+msgid "audio"
+msgstr "ملف صوتي"
+
+#. type=text
+msgctxt "text"
+msgid "woman"
+msgstr "امرأة"
+
+#. type=text
+msgctxt "text"
+msgid "man"
+msgstr "رجل"
+
+#. type=text
+msgctxt "text"
+msgid "none"
+msgstr "لا شيء"
+
+#. type=text
+msgctxt "text"
+msgid "one to three"
+msgstr "من واحد لثلاثة"
+
+#. type=text
+msgctxt "text"
+msgid "more than four"
+msgstr "أكتر من أربعة"
+
+#. type=text
+msgctxt "text"
+msgid "i want the tips"
+msgstr "بدي النصائح"
+
+#. type=text
+msgctxt "text"
+msgid "i do not want the tips"
+msgstr "ما بدي النصائح"
+
+#. type=text
+msgctxt "text"
+msgid "jordan"
+msgstr "الأردن"
+
+#. type=text
+msgctxt "text"
+msgid "gaza"
+msgstr "غزة"
+
+#. type=text
+msgctxt "text"
+msgid "west bank"
+msgstr "الضفة الغربية"
+
+#. type=text
+msgctxt "text"
+msgid "lebanon"
+msgstr "لبنان"
+
+#. type=text
+msgctxt "text"
+msgid "egypt"
+msgstr "مصر"
+
+#. type=text
+msgctxt "text"
+msgid "syria"
+msgstr "سوريا"
+
+#. type=text
+msgctxt "text"
+msgid "yemen"
+msgstr "اليمن"
+
+#. type=text
+msgctxt "text"
+msgid "other"
+msgstr "أخرى"
+
+#. type=text
+msgctxt "text"
+msgid "living in a camp or shelter"
+msgstr "عايش في مُخيّم أو مأوى"
+
+#. type=text
+msgctxt "text"
+msgid "living in a house or apartment"
+msgstr "عايش في بيت أو شقة"
+
+#. type=text
+msgctxt "text"
+msgid "moving around often"
+msgstr "عم بغيّر مكاني كتير"
+
+#. type=text
+msgctxt "text"
+msgid "prefer not to say"
+msgstr "بفضّل ما أجاوب"
+
+#. type=text
+msgctxt "text"
+msgid "under 16 years old"
+msgstr "أقل من 16 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "16-19 years old"
+msgstr "من 16 إلى 19 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "20-35 years old"
+msgstr "من 20 إلى 35 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "over 35 years old"
+msgstr "أكتر من 35 سنة"
+
+#. type=text
+msgctxt "text"
+msgid "english"
+msgstr "اللغة الانجليزية"
+
+#. type=text
+msgctxt "text"
+msgid "اللغة العربية"
+msgstr "اللغة العربية"
+
+#. type=text
+msgctxt "text"
+msgid "arabic"
+msgstr "اللغة العربية"
+
+#. type=text
+msgctxt "text"
+msgid "yes"
+msgstr "نعم"
+
+#. type=text
+msgctxt "text"
+msgid "exit"
+msgstr "خروج"
+
+#. type=text
+msgctxt "text"
+msgid "no"
+msgstr "لا"
+
+#. type=text
+msgctxt "text"
+msgid "back"
+msgstr "الرجوع"
+

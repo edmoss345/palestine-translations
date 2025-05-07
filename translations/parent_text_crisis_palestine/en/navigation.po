@@ -1,0 +1,1227 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to go back to the previous messages?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. Type {HELP} at any time if you would like the details of emergency services or other hotlines."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Here are some services that might be able to help:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{generic referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Type {HELP} at any time if you would like the details of emergency services or other hotlines. Remember everything you say will be completely private!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{mental_health referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{health referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{natural_disasters referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like information about local and international resources available to help you right now?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you need some support with an emotional issue?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Are you currently experiencing a health issue?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you have an emergency?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you are facing an emergency. Can you please tell us what kind of assistance you need?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{family referrals}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful. You can access this information at any time by typing {HELP}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to ParentText!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "I don't understand your message."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access additional support resources."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have not given consent to participate in this programme. Would you like to participate?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you ever want to receive these tips in the future just type HELLO. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "We are here to help. You've received @fields.c_n_mod_compl out of @fields.c_n_mod tips. Would you like to continue?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you ever decide to come back, type HELLO. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope to see you again soon, and we wish you a happy and peaceful day!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are already part of ParentText"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have already received all of the avilable tips. Type {MENU} to review previous tips."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back to ParentText."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you want to stop receiving tips?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you do not want to receive any more messages, please type \"EXIT\"."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "If you made a mistake, please type \"BACK\"."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for participating. If you want to return to continue receiving tips, type HELLO. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This feature will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "The menu will be available once you have completed registration. It won’t take long. Please continue your progress!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for taking a pause with me today."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "In this program, you will receive @fields.c_n_mod tips. Your first tip is \"@results.name\"."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "fail"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Let’s get started. Press NEXT to begin."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "NA"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "The tips you haven't finished are:"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@(text_slice(results.message_options,3))."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Which tip would you like to receive?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "@results.message_options"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You haven't received any tips yet."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have received the following tips:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to review it?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. You can come back here at any time to review it."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "You have completed @fields.n_s_modules_compl out of @fields.n_s_modules tips. Which of the following tips would you like to review?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. @results.count is a number (counter for list)
+msgctxt "text"
+msgid "@(word_count(fields.s_modules_compl) +1). Return to Main Menu"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like now?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Alright. I will share more tips tomorrow."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "OK, see you tomorrow."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What kind of activity do you want to try with your child?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Do you want to begin now or tomorrow?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Great, see you tomorrow!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You have completed the programme. Well done!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Remember, you can always return to ParentText to review these tips. Just type {MENU}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Was ParentText helpful? If so, share it with a friend. Just send this link: {insert link}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now. Press 1 to continue with your registration."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you started answering some baseline questions but didn't get a chance to finish. Would you like to continue now and then we can move onto the tips?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you started a tip, but didn't finish receiving all of the information. Would you like to finish it or start learning someting new?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. What would you like to do?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "It looks like you have started, but not finished, @fields.c_n_mod_started tips. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You and your family are facing a challenging time. ParentText provides tips on how you can support your child during this crisis. Would you like to recieve your first tips now?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "New tips are ready for you. Would you like to continue now?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "💛 We’re thinking of you today. There are simple things you can do to help your child cope. Would you like to learn about them? "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad: "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "1. Yes"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "✨ Today’s tips can help your child feel more safe. Would you like to learn more? "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Today’s tips offer you some ways you can stay calm and also encourage your children during times of uncertainty 🌱. "
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to receive them?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🧡 Planning to travel with your child soon?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "💛 In stressful moments, even simple actions can help keep your child safe and close. Today’s tips share how to stay connected and calm when traveling."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🫂 Many parents are having quiet talks with their children about staying safe. Today’s tips explain how to keep your child safe from harassment in a calm, age-appropriate way."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🕊️ In war and other tough times, children notice more than we think. Today’s tips help you talk to your child about death so they can feel safer, less confused, and more supported. Would you like to receive the tips?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "🌿 Building strength in tough times starts with simple steps. Would you like to learn how to promote good behaviors and stay strong together?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This time is difficult. It doesn't seem like you have the time for the these tips right now. When you are ready to keep going, press 1."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful! You can access the Main Menu at any time by typing {MENU}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "To invite someone to join, share this link!"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "{insert link}"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like to do next?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "We hope this was helpful. You can access the Main Menu at any time by typing {MENU}."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You've reached the end of today's tip. Well done for caring for your child during this challenging time."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What would you like change?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text, Images, and Videos."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is Text and Images Only."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Your current media setting is"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't provide this info."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change it?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You didn't tell us if you are a woman or a man."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Woman."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a Man."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You told us that you are a"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to update your gender?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in English."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in Arabic."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You are currently receiving messages in"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Would you like to change your language?"
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "*DAY @fields.curr_demo_day*"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
+msgstr ""
+
+#. type=text
+#. Strings like @fields.xxx and @results.yyy should not be translated. 
+msgctxt "text"
+msgid "There are @(fields.c_n_mod - fields.c_n_mod_compl) more tips."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "There is one more tip."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Yes"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Local and international support"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Medical services"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Mental health support"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Family counselling services"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Natural disasters"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get other emergency contacts"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to the Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Exit menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NEXT"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "A fun activity I can do with my child"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Proceed to the next tips"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Nothing. Let's continue tomorrow."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NA"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Another fun activity I can do with my child"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue with more tips tomorrow."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "View another activity idea"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Go to Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Quick"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Active"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Something Calm"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Now"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my registration"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Continue my initial questions"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Finish the previous tip"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Receive a new tip"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Receive the remaining information"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Remind me about this tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "I've finished receiving all of the information that I want from this chatbot."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "No, remind me tomorrow."
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "1"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review a different tip"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Review tips"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my settings"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Invite a friend to ParentText"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get more help"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Watch a video about ParentText"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get the next tip"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Nothing, let's continue tomorrow"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my profile"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Stop receiving the messages"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Return to Main Menu"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my language"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change the way I receive content"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Change my gender"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Get the next tip."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "generic"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental_health"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "health"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural_disasters"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "help"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "play"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "start"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "pause"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope nah"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no n nope"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "local and international support"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "medical services"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "mental health support"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "family counselling services"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "natural disasters"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get other emergency contacts"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to the main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "nothing. let's continue tomorrow."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "a fun activity i can do with my child"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "proceed to the next tips"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "na"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "another fun activity i can do with my child"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue with more tips tomorrow."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "view another activity idea"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "go to main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something quick"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something active"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "something calm"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "now"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my registration"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "continue my initial questions"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "finish the previous tip"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "receive a new tip"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "receive the remaining information"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "remind me about this tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "i've finished receiving all of the information that i want from this chatbot."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no, remind me tomorrow."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review a different tip"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "review tips"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my settings"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "invite a friend to parenttext"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get more help"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "watch a video about parenttext"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get the next tip"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "nothing, let's continue tomorrow"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my profile"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "stop receiving the messages"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "return to main menu"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my language"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change the way i receive content"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "change my gender"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "get the next tip."
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes y yeah yep ok"
+msgstr ""
