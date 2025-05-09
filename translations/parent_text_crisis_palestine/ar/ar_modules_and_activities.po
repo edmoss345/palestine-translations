@@ -1,3 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Palestine Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2025-05-09 00:11+0000\n"
+"PO-Revision-Date: 2025-05-09 00:11+0000\n"
+"Last-Translator: \n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
 #. type=text
 msgctxt "text"
 msgid "*A Friendly Chat*"
@@ -91,12 +105,12 @@ msgstr "سؤالكم عن بعض بيساعد تحافظوا على علاقات
 #. type=text
 msgctxt "text"
 msgid "Ask each other questions like: “What made you happy today?” 👂 “What was difficult today?” 👂 “How can I help you?” 👂"
-msgstr "اسألوا بعضكم أسئلة مثل: "شو أسعدك النهارده؟" 👂 "شو كان صعب النهارده؟" 👂 "كيف بقدر أساعدك؟" 👂"
+msgstr "اسألوا بعضكم أسئلة مثل: \"شو أسعدك النهارده؟\" 👂 \"شو كان صعب النهارده؟\" 👂 \"كيف بقدر أساعدك؟\" 👂"
 
 #. type=text
 msgctxt "text"
 msgid "For this to help, your children need to feel safe while sharing things with you. Be open to their responses. 💚"
-msgstr "علشان هاي الشي يفيد، لازم أطفالك يحسوا بالأمان وهم بيحكوا معك. خليك متقبل لردودهم. 💚""
+msgstr "علشان هاي الشي يفيد، لازم أطفالك يحسوا بالأمان وهم بيحكوا معك. خليك متقبل لردودهم. 💚\""
 
 #. type=text
 msgctxt "text"
@@ -106,7 +120,7 @@ msgstr "الأطفال الكبار سنًّا بيكونوا أصدق لما ب
 #. type=text
 msgctxt "text"
 msgid "Be kind to yourself if your children do not want to share their problems with you. 💙 Often, children are afraid to share as they are scared they will get in trouble. Getting upset with them won’t help - keep showing you love them and give them time! 🌷"
-msgstr "كون لطيف مع حالك إذا أطفالك ما بدهم يحكولك مشاكلهم. 💙 غالبًا الأطفال بيخافوا يحكوا لأنهم بيخافوا يتورطوا بمشاكل. الزعل منهم ما راح يفيد - أظهر لهم إنك بتحبهم واعطيهم وقت! 🌷""
+msgstr "كون لطيف مع حالك إذا أطفالك ما بدهم يحكولك مشاكلهم. 💙 غالبًا الأطفال بيخافوا يحكوا لأنهم بيخافوا يتورطوا بمشاكل. الزعل منهم ما راح يفيد - أظهر لهم إنك بتحبهم واعطيهم وقت! 🌷\""
 
 #. type=text
 msgctxt "text"
@@ -1140,8 +1154,8 @@ msgstr "اضغط تشغيل ▶️ عشان تتعرّف على 3️⃣نصائ�
 
 #. type=text
 msgctxt "text"
-msgid "1️⃣ **"NO" IS OK!**"
-msgstr "1️⃣**عادي تقول "لأ"!**"
+msgid "1️⃣ **\"NO\" IS OK!**"
+msgstr "1️⃣**عادي تقول \"لأ\"!**"
 
 #. type=text
 msgctxt "text"
@@ -1161,7 +1175,7 @@ msgstr "هاي 3️⃣ نصائح لحماية أطفالك من التحرُّ�
 #. type=text
 msgctxt "text"
 msgid "1️⃣ **”NO” IS OK!**"
-msgstr "1️⃣**عادي تقول "لأ"!**"
+msgstr "1️⃣**عادي تقول \"لأ\"!**"
 
 #. type=text
 msgctxt "text"
@@ -1171,7 +1185,7 @@ msgstr "علِّم أطفالك إنه ما بيحق لحدا يلمسهم."
 #. type=text
 msgctxt "text"
 msgid "In order to stop someone who tries to do that, practice saying and shouting “NO” with your children."
-msgstr "وعشان توقّف شخص بيحاول يعمل هيك، اتمرّن مع أطفالك إنكم تقولوا "لأ" بصوت عالي."
+msgstr "وعشان توقّف شخص بيحاول يعمل هيك، اتمرّن مع أطفالك إنكم تقولوا \"لأ\" بصوت عالي."
 
 #. type=text
 msgctxt "text"
