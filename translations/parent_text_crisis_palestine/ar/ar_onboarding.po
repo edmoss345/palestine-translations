@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 17:33+0000\n"
-"PO-Revision-Date: 2025-05-12 17:33+0000\n"
+"POT-Creation-Date: 2025-05-12 22:34+0000\n"
+"PO-Revision-Date: 2025-05-12 22:34+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -120,7 +120,7 @@ msgstr "شروط وأحكام نصائح للوالدين متوفرة هون: {
 #. type=text
 msgctxt "text"
 msgid "Press YES if you understand and want to receive ParentText. Type 'EXIT' if you do not wish to participate."
-msgstr "nan"
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -160,12 +160,12 @@ msgstr "آسف، ما فهمت. من فضلك أدخل رقم بين 0 و 30."
 #. type=text
 msgctxt "text"
 msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
-msgstr "nan"
+msgstr ""
 
 #. type=text
 msgctxt "text"
 msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
-msgstr "nan"
+msgstr ""
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -189,7 +189,7 @@ msgstr "رجل"
 
 #. type=quick_replies
 msgctxt "quick_replies"
-msgid "nan"
+msgid "None"
 msgstr "لا شيء"
 
 #. type=quick_replies
