@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-09 00:11+0000\n"
-"PO-Revision-Date: 2025-05-09 00:11+0000\n"
+"POT-Creation-Date: 2025-05-12 17:33+0000\n"
+"PO-Revision-Date: 2025-05-12 17:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -34,8 +34,8 @@ msgstr "هاي شوية خدمات ممكن تساعدك:"
 
 #. type=text
 msgctxt "text"
-msgid "{generic referrals}"
-msgstr "{generic referrals}"
+msgid "{generic_referrals}"
+msgstr "{generic_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -49,8 +49,8 @@ msgstr "{mental_health referrals}"
 
 #. type=text
 msgctxt "text"
-msgid "{health referrals}"
-msgstr "{health referrals}"
+msgid "{health_referrals}"
+msgstr "{health_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -84,8 +84,13 @@ msgstr "يبدو إنك بتواجه حالة طارئة. بتقدر تحكيل�
 
 #. type=text
 msgctxt "text"
-msgid "{family referrals}"
-msgstr "{family referrals}"
+msgid "{family_referrals}"
+msgstr "{family_referrals}"
+
+#. type=text
+msgctxt "text"
+msgid "{child_protection}"
+msgstr "{child_protection}"
 
 #. type=text
 msgctxt "text"
@@ -130,7 +135,7 @@ msgstr "بنتمنى نشوفك عن قريب."
 #. type=text
 msgctxt "text"
 msgid "We are here to help. You've received @fields.c_n_mod_compl out of @fields.c_n_mod tips. Would you like to continue?"
-msgstr "نحنا هون عشان نساعدك. استقبلت @fields.c_n_mod_compl out of @fields.c_n_mod tips نصيحة. بدّك تكمل؟"
+msgstr "نحنا هون عشان نساعدك. حالياً استقبلت qqfields.c_n_mod_compl من أصل @fields.c_n_mod tips نصيحة. بدّك تكمل؟"
 
 #. type=text
 msgctxt "text"
@@ -165,17 +170,22 @@ msgstr "هل أنت متأكد إنك بدّك توقف استلام النصا�
 #. type=text
 msgctxt "text"
 msgid "If you do not want to receive any more messages, please type \"EXIT\"."
-msgstr "لو ما بدّك تستقبل رسائل أكتر، الرجاء كتابة \"EXIT\"."
+msgstr "لو ما بدّك تستقبل رسائل أكتر، الرجاء كتابة \"خروج\"."
 
 #. type=text
 msgctxt "text"
 msgid "If you made a mistake, please type \"BACK\"."
-msgstr "لو غلطت، الرجاء كتابة \"BACK\"."
+msgstr "لو غلطت، الرجاء كتابة \"رجوع\"."
 
 #. type=text
 msgctxt "text"
 msgid "Thank you for participating. If you want to return to continue receiving tips, type HELLO."
 msgstr "شكرًا لمشاركتك. لو بدّك ترجع وتكمل استقبال النصائح، اكتب: مرحبا"
+
+#. type=text
+msgctxt "text"
+msgid "We are so glad you want to stick around! We will resume your progress tomorrow."
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -255,10 +265,7 @@ msgstr "تمام. بتقدر ترجع هون بأي وقت تراجعها."
 #. type=text
 msgctxt "text"
 msgid "You have completed @fields.n_s_modules_compl out of @fields.n_s_modules tips. Which of the following tips would you like to review?"
-msgstr "خلصت @fields.n_s_modules@ out of fields.n_s_modules_compltips   أي من النصائح التالية بدّك تراجع؟
-
-
-لقد أكملتَ @fields.n_s_modules_compl من أصل نصائح @fields.n_s_modules. أيٌّ من النصائح التالية ترغب في مراجعتها؟"
+msgstr "لقد أكملتَ @fields.n_s_modules_compl من أصل نصائح @fields.n_s_modules. أيٌّ من النصائح التالية ترغب في مراجعتها؟"
 
 #. type=text
 msgctxt "text"
@@ -312,8 +319,23 @@ msgstr "هل كان برنامج نصائح للوالدين مفيد؟ لو ن�
 
 #. type=text
 msgctxt "text"
-msgid "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now. Press 1 to continue with your registration."
-msgstr "هادا الوقت صعب على عيلتك. أنا هون اليوم مع شوية نصائح عشان تخلق لحظات صغيرة للتواصل مع طفلك لتعطيه الروتين والاستقرار اللي كلكم بتحتاجوه. اضغط 1 عشان تكمّل تسجيلك."
+msgid "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Press a number on your keypad:"
+msgstr "إضغط رقم على لوحة المفاتيح عندك:"
+
+#. type=text
+msgctxt "text"
+msgid "1. Continue with my registration"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me tomorrow"
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -322,13 +344,48 @@ msgstr "شكلك بلشت تجاوب على شوية أسئلة أساسية ب�
 
 #. type=text
 msgctxt "text"
+msgid "1. Continue my initial questions"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
 msgid "It looks like you started a tip, but didn't finish receiving all of the information. Would you like to finish it or start learning someting new?"
 msgstr "شكلك بلّشت بنصيحة، بس ما خلّصت استلام كل المعلومات. بتحبّ تكمّل أو تبلّش إشي جديد؟"
 
 #. type=text
 msgctxt "text"
+msgid "1. Finish the previous tip"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "2. Receive a new tip"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "3. Remind me tomorrow"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
 msgid "It looks like you started a parenting tip, but didn't finish receiving all of the information. What would you like to do?"
 msgstr "شكلك بلّشت نصيحة تربوية بس ما خلصت استلام كل المعلومات. شو بتحب تعمل؟"
+
+#. type=text
+msgctxt "text"
+msgid "1. Receive the remaining information"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me about this tomorrow"
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "3. I've finished receiving all of the information that I want from this chatbot"
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -342,21 +399,6 @@ msgstr "إنت و عيلتك عم بتمرّوا بوقت صعب. نصا�
 
 #. type=text
 msgctxt "text"
-msgid "New tips are ready for you. Would you like to continue now?"
-msgstr "في نصيحة جديدة بإنتظارَك. جاهز تكمّل معنا؟"
-
-#. type=text
-msgctxt "text"
-msgid "💛 We’re thinking of you today. There are simple things you can do to help your child cope. Would you like to learn about them?"
-msgstr "💛 إحنا عم منفكّر فيك اليوم. في أشياء بسيطة بتقدر تمارسها عشان تساعد أطفالك يتعاملوا مع الظروف. بتحب تتعرّف عليهم؟"
-
-#. type=text
-msgctxt "text"
-msgid "Press a number on your keypad:"
-msgstr "إضغط رقم على لوحة المفاتيح عندك:"
-
-#. type=text
-msgctxt "text"
 msgid "1. Yes"
 msgstr "١. نعم"
 
@@ -364,6 +406,16 @@ msgstr "١. نعم"
 msgctxt "text"
 msgid "2. No, remind me tomorrow."
 msgstr "٢. لا، الرجاء تذكيري غداً"
+
+#. type=text
+msgctxt "text"
+msgid "New tips are ready for you. Would you like to continue now?"
+msgstr "في نصيحة جديدة بإنتظارَك. جاهز تكمّل معنا؟"
+
+#. type=text
+msgctxt "text"
+msgid "💛 We’re thinking of you today. There are simple things you can do to help your child cope. Would you like to learn about them?"
+msgstr "💛 إحنا عم منفكّر فيك اليوم. في أشياء بسيطة بتقدر تمارسها عشان تساعد أطفالك يتعاملوا مع الظروف. بتحب تتعرّف عليهم؟"
 
 #. type=text
 msgctxt "text"
@@ -389,6 +441,11 @@ msgstr "🧡 عم بتخطط تسافر مع أطفالك قريباً؟"
 msgctxt "text"
 msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
 msgstr "نصائح اليوم رح تساعدك تاخد إحتياطات الأمان خلال السفر- بتحب تتعرّف عليهم؟"
+
+#. type=text
+msgctxt "text"
+msgid "2. No, remind me tomorrow"
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -526,12 +583,12 @@ msgstr "بدك تغيّر خَيَار اللغة؟"
 #. type=text
 msgctxt "text"
 msgid "*DAY @fields.curr_demo_day*"
-msgstr "*DAY @fields.curr_demo_day*"
+msgstr "يوم @fields.curr_demo_day"
 
 #. type=text
 msgctxt "text"
-msgid "You completed the ParentText demo. Type RESET and then {FACSTART} to re-start from the beginning."
-msgstr "أكملت العرض التجريبي الخاص بنصائح للوالدين. اكتب: إعادة تشغيل ,ثم {FACSTART} لإعادة التشغيل من البداية."
+msgid "You completed the ParentText demo. Type {RESET} and then {FACSTART} to re-start from the beginning."
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -543,578 +600,523 @@ msgctxt "text"
 msgid "There is one more tip."
 msgstr "في كمان نصيحة."
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yes"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "No"
 msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Local and international support"
 msgstr "الدعم المحلي والدولي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Medical services"
 msgstr "الخِدْمَات الطبية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Mental health support"
 msgstr "دعم الصحة العقلية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Family counselling services"
 msgstr "خدمات الاستشارة العائلية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Natural disasters"
 msgstr "الكوارث الطبيعية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "Child Protection"
+msgstr "nan"
+
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Get other emergency contacts"
 msgstr "الحصول على جهات اتصال أخرى للطوارئ"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Go to the Main Menu"
 msgstr "انتقل إلى القائمة الرئيسة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Exit menu"
 msgstr "اخرج من القائمة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "BACK"
 msgstr "الرجوع"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "التالي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "A fun activity I can do with my child"
 msgstr "نشاط ممتع ممكن أعمله مع طفلي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Proceed to the next tips"
 msgstr "انتقل إلى النصائح التالية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Nothing. Let's continue tomorrow."
 msgstr "ما في إشي. يلا نكمل بكره."
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "nan"
 msgstr "غير متوفر"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Another fun activity I can do with my child"
 msgstr "نشاط ممتع تاني ممكن أعمله مع طفلي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Continue with more tips tomorrow."
 msgstr "كمِّل مع نصائح أكترغداً."
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "View another activity idea"
 msgstr "عرض فكرة نشاط تاني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Go to Main Menu"
 msgstr "انتقل إلى القائمة الرئيسية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Something Quick"
 msgstr "إشي سريع"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Something Active"
 msgstr "إشي نشيط"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Something Calm"
 msgstr "إشي هادي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Now"
 msgstr "هلا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Tomorrow"
 msgstr "غدًا"
 
-#. type=text
-msgctxt "text"
-msgid "Continue my registration"
-msgstr "متابعة التسجيل"
-
-#. type=text
-msgctxt "text"
-msgid "Remind me tomorrow"
-msgstr "الرجاء تذكيري غداً"
-
-#. type=text
-msgctxt "text"
-msgid "Continue my initial questions"
-msgstr "أكمل أسئلتي الأولية"
-
-#. type=text
-msgctxt "text"
-msgid "Finish the previous tip"
-msgstr "أكمل النصيحة السابقة"
-
-#. type=text
-msgctxt "text"
-msgid "Receive a new tip"
-msgstr "استلم نصيحة جديدة"
-
-#. type=text
-msgctxt "text"
-msgid "Receive the remaining information"
-msgstr "استلم المعلومات الباقية"
-
-#. type=text
-msgctxt "text"
-msgid "Remind me about this tomorrow"
-msgstr "الرجاء تذكيري بهاذا الأمرغداً"
-
-#. type=text
-msgctxt "text"
-msgid "I've finished receiving all of the information that I want from this chatbot."
-msgstr "خلصت استلام كل المعلومات اللي برغب فيها من روبوت الدردشة"
-
-#. type=text
-msgctxt "text"
-msgid "No, remind me tomorrow."
-msgstr "لا، الرجاء تذكيري غداً"
-
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "1"
 msgstr "1"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "2"
+msgstr "2"
+
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "3"
+msgstr "3"
+
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Return to Menu"
 msgstr "العودة إلى القائمة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Review a different tip"
 msgstr "مراجعة نصيحة مختلفة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Review tips"
 msgstr "مراجعة النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Change my settings"
 msgstr "تغيير إعداداتي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Invite a friend to ParentText"
 msgstr "ادعُ صديق إلى برنامج نصائح للوالدين"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Get more help"
 msgstr "احصل على مزيد من المساعدة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Watch a video about ParentText"
 msgstr "شاهد فيديو عن برنامج نصائح للوالدين"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Get the next tip"
 msgstr "احصل على النصيحة التالية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Nothing, let's continue tomorrow"
 msgstr "ما في إشي، يلا نكمل بكره"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Change my profile"
 msgstr "تغيير ملفي الشخصي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Stop receiving the messages"
 msgstr "وقف استلام الرسائل"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Return to Main Menu"
 msgstr "العودة إلى القائمة الرئيسة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Change my language"
 msgstr "تغير اللغة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Change the way I receive content"
 msgstr "تغيير طريقة استلامي للمحتوى"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Change my gender"
 msgstr "تغيير الجنس"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Get the next tip."
 msgstr "احصل على النصيحة التالية."
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "generic"
 msgstr "عام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "mental_health"
 msgstr "الصحة_العقلية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "health"
 msgstr "الصحة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "natural_disasters"
 msgstr "الكوارث الطبيعية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "help"
 msgstr "المساعدة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "menu"
 msgstr "القائمة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "play"
 msgstr "تشغيل"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "stop"
 msgstr "توقف"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "start"
 msgstr "ابدأ"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "pause"
 msgstr "توقف"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes y yeah yep"
 msgstr "نعم حسنًا أوكي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "no n nope nah"
 msgstr "لا لأ"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "no n nope"
 msgstr "لا لأ"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "local and international support"
 msgstr "الدعم المحلي والدولي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "medical services"
-msgstr "الخدمات الطبية"
+msgstr "الخِدْمَات الطبية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "mental health support"
 msgstr "دعم الصحة العقلية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "family counselling services"
 msgstr "خدمات الاستشارة العائلية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "natural disasters"
 msgstr "الكوارث الطبيعية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
+msgid "child protection"
+msgstr "nan"
+
+#. type=arguments
+msgctxt "arguments"
 msgid "get other emergency contacts"
 msgstr "الحصول على جهات اتصال أخرى للطوارئ"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "go to the main menu"
 msgstr "انتقل إلى القائمة الرئيسة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "exit menu"
 msgstr "اخرج من القائمة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "no"
 msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "exit"
 msgstr "خروج"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "back"
 msgstr "الرجوع"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "nothing. let's continue tomorrow."
-msgstr "ما في إشي. يلا نكمّل بكره."
+msgstr "ما في إشي. يلا نكمل بكره."
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "a fun activity i can do with my child"
 msgstr "نشاط ممتع ممكن أعمله مع طفلي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "proceed to the next tips"
-msgstr "انتقل إلى النصيحة التالية"
+msgstr "انتقل إلى النصائح التالية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "na"
 msgstr "غير متوفر"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "another fun activity i can do with my child"
 msgstr "نشاط ممتع تاني ممكن أعمله مع طفلي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "continue with more tips tomorrow."
-msgstr "أكمل"
+msgstr "كمِّل مع نصائح أكترغداً."
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "view another activity idea"
 msgstr "عرض فكرة نشاط تاني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "go to main menu"
 msgstr "انتقل إلى القائمة الرئيسية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "something quick"
 msgstr "إشي سريع"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "something active"
 msgstr "إشي نشيط"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "something calm"
 msgstr "إشي هادي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "now"
 msgstr "هلا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "tomorrow"
 msgstr "غدًا"
 
-#. type=text
-msgctxt "text"
-msgid "continue my registration"
-msgstr "متابعة التسجيل"
+#. type=arguments
+msgctxt "arguments"
+msgid "1"
+msgstr "1"
 
-#. type=text
-msgctxt "text"
-msgid "remind me tomorrow"
-msgstr "الرجاء تذكيري غداً"
+#. type=arguments
+msgctxt "arguments"
+msgid "2"
+msgstr "2"
 
-#. type=text
-msgctxt "text"
-msgid "continue my initial questions"
-msgstr "كمّل أسئلتي الأولية"
+#. type=arguments
+msgctxt "arguments"
+msgid "3"
+msgstr "3"
 
-#. type=text
-msgctxt "text"
-msgid "finish the previous tip"
-msgstr "كمِّل مع نصائح أكترغداً."
-
-#. type=text
-msgctxt "text"
-msgid "receive a new tip"
-msgstr "استلم نصيحة جديدة"
-
-#. type=text
-msgctxt "text"
-msgid "receive the remaining information"
-msgstr "استلم المعلومات الباقية"
-
-#. type=text
-msgctxt "text"
-msgid "remind me about this tomorrow"
-msgstr "الرجاء تذكيري بهاذا الأمرغداً"
-
-#. type=text
-msgctxt "text"
-msgid "i've finished receiving all of the information that i want from this chatbot."
-msgstr "خلصت استلام كل المعلومات اللي برغب فيها من روبوت الدردشة"
-
-#. type=text
-msgctxt "text"
-msgid "no, remind me tomorrow."
-msgstr "لا، الرجاء تذكيري غداً"
-
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "return to menu"
 msgstr "العودة إلى القائمة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "review a different tip"
 msgstr "مراجعة نصيحة مختلفة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "review tips"
 msgstr "مراجعة النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "change my settings"
 msgstr "تغيير إعداداتي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "invite a friend to parenttext"
 msgstr "ادعُ صديق إلى برنامج نصائح للوالدين"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "get more help"
 msgstr "احصل على مزيد من المساعدة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "watch a video about parenttext"
 msgstr "شاهد فيديو عن برنامج نصائح للوالدين"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "get the next tip"
 msgstr "احصل على النصيحة التالية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "nothing, let's continue tomorrow"
 msgstr "ما في إشي، يلا نكمل بكره"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "change my profile"
 msgstr "تغيير ملفي الشخصي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "stop receiving the messages"
 msgstr "وقف استلام الرسائل"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "return to main menu"
 msgstr "العودة إلى القائمة الرئيسة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "change my language"
 msgstr "تغير اللغة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "change the way i receive content"
 msgstr "تغيير طريقة استلامي للمحتوى"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "change my gender"
 msgstr "تغيير الجنس"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "get the next tip."
 msgstr "احصل على النصيحة التالية."
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes y yeah yep ok"
 msgstr "نعم حسنا أوكي"
 

@@ -51,10 +51,11 @@ for sheet_name, file_name in sheet_to_filename.items():
         for _, row in df.iterrows():
             english = str(row.get("English", "")).strip()
             arabic = str(row.get("Arabic", "")).strip()
+            type = str(row.get("Type", "")).strip()
 
             if english and arabic:
-                f.write("#. type=text\n")
-                f.write("msgctxt \"text\"\n")
+                f.write(f"#. type={escape_quotes(type)}\n")
+                f.write(f"msgctxt \"{escape_quotes(type)}\"\n")
                 f.write(f"msgid \"{escape_quotes(english)}\"\n")
                 f.write(f"msgstr \"{escape_quotes(arabic)}\"\n\n")
 

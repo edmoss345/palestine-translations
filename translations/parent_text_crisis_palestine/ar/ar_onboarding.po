@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-09 00:11+0000\n"
-"PO-Revision-Date: 2025-05-09 00:11+0000\n"
+"POT-Creation-Date: 2025-05-12 17:33+0000\n"
+"PO-Revision-Date: 2025-05-12 17:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -119,8 +119,8 @@ msgstr "شروط وأحكام نصائح للوالدين متوفرة هون: {
 
 #. type=text
 msgctxt "text"
-msgid "Press YES if you understand and want to receive ParentText.. Type 'EXIT' if you do not wish to participate."
-msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوالدين. اكتب 'خروج' إذا ما بدك تشارك."
+msgid "Press YES if you understand and want to receive ParentText. Type 'EXIT' if you do not wish to participate."
+msgstr "nan"
 
 #. type=text
 msgctxt "text"
@@ -159,316 +159,331 @@ msgstr "آسف، ما فهمت. من فضلك أدخل رقم بين 0 و 30."
 
 #. type=text
 msgctxt "text"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr "nan"
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
+msgstr "nan"
+
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Text / Images"
 msgstr "نص/ صور"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Audio"
 msgstr "ملف صوتي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Woman"
 msgstr "امرأة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Man"
 msgstr "رجل"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "nan"
 msgstr "لا شيء"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "One to three"
 msgstr "من واحد لثلاثة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "More than four"
 msgstr "أكتر من أربعة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "I want the tips"
 msgstr "بدي النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "I do not want the tips"
 msgstr "ما بدي النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Jordan"
 msgstr "الأردن"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Gaza"
 msgstr "غزة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "West Bank"
 msgstr "الضفة الغربية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Lebanon"
 msgstr "لبنان"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Egypt"
 msgstr "مصر"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Syria"
 msgstr "سوريا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yemen"
 msgstr "اليمن"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Other"
 msgstr "أخرى"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Living in a camp or shelter"
 msgstr "عايش في مُخيّم أو مأوى"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Living in a house or apartment"
 msgstr "عايش في بيت أو شقة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Moving around often"
 msgstr "عم بغيّر مكاني كتير"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Prefer not to say"
 msgstr "بفضّل ما أجاوب"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Under 16 years old"
 msgstr "أقل من 16 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "16-19 years old"
 msgstr "من 16 إلى 19 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "20-35 years old"
 msgstr "من 20 إلى 35 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Over 35 years old"
 msgstr "أكتر من 35 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "English"
 msgstr "اللغة الإنجليزية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "اللغة العربية"
 msgstr "اللغة العربية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Arabic"
 msgstr "اللغة العربية"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "YES"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "BACK"
 msgstr "الرجوع"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "التالي"
 
-#. type=text
-msgctxt "text"
-msgid "text / images"
-msgstr "نص / صور"
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "NO"
+msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
+msgid "text / images"
+msgstr "نص/ صور"
+
+#. type=arguments
+msgctxt "arguments"
 msgid "audio"
 msgstr "ملف صوتي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "woman"
 msgstr "امرأة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "man"
 msgstr "رجل"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "none"
 msgstr "لا شيء"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "one to three"
 msgstr "من واحد لثلاثة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "more than four"
 msgstr "أكتر من أربعة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "i want the tips"
 msgstr "بدي النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "i do not want the tips"
 msgstr "ما بدي النصائح"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "jordan"
 msgstr "الأردن"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "gaza"
 msgstr "غزة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "west bank"
 msgstr "الضفة الغربية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "lebanon"
 msgstr "لبنان"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "egypt"
 msgstr "مصر"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "syria"
 msgstr "سوريا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yemen"
 msgstr "اليمن"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "other"
 msgstr "أخرى"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "living in a camp or shelter"
 msgstr "عايش في مُخيّم أو مأوى"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "living in a house or apartment"
 msgstr "عايش في بيت أو شقة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "moving around often"
 msgstr "عم بغيّر مكاني كتير"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "prefer not to say"
 msgstr "بفضّل ما أجاوب"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "under 16 years old"
 msgstr "أقل من 16 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "16-19 years old"
 msgstr "من 16 إلى 19 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "20-35 years old"
 msgstr "من 20 إلى 35 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "over 35 years old"
 msgstr "أكتر من 35 سنة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "english"
-msgstr "اللغة الانجليزية"
+msgstr "اللغة الإنجليزية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "اللغة العربية"
 msgstr "اللغة العربية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "arabic"
 msgstr "اللغة العربية"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "exit"
 msgstr "خروج"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "no"
 msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "back"
 msgstr "الرجوع"
 

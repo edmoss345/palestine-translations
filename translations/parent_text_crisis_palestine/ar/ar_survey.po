@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-09 00:11+0000\n"
-"PO-Revision-Date: 2025-05-09 00:11+0000\n"
+"POT-Creation-Date: 2025-05-12 17:33+0000\n"
+"PO-Revision-Date: 2025-05-12 17:33+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -147,353 +147,353 @@ msgctxt "text"
 msgid "Today you will receive your final tips. First, we have 3 questions to ask about how you and your children are doing. ❤️"
 msgstr "اليوم رح توصلك آخر نصائح! بس بالأول في عنا ٣ أسئلة عن كيف حالك إنت وأولادك. ❤️"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "التالي"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Not at all"
 msgstr "أبدًا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Some days"
 msgstr "بعض الأيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "More than half the days"
 msgstr "أكتر من نص الأيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Nearly every day"
 msgstr "كل يوم تقريبًا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Prefer not to answer"
 msgstr "بفضّل ما أجاوب"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "0 days"
 msgstr "ولا يوم"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "1 day"
 msgstr "يوم واحد"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "2 days"
 msgstr "يومين"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "3 days"
 msgstr "3 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "4 days"
 msgstr "4 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "5 days"
 msgstr "5 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "6 days"
 msgstr "6 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "7 days"
 msgstr "7 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yes"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "No"
 msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Living in a camp or shelter"
 msgstr "عايش في مُخيّم أو مأوى"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Living in a house or apartment"
 msgstr "عايش في بيت أو شقة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Moving around often"
 msgstr "عم بغيّر مكاني كتير"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Palestinian"
 msgstr "فلسطيني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Lebanese"
 msgstr "لبناني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Syrian"
 msgstr "سوري"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Jordanian"
 msgstr "أردني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yemeni"
 msgstr "يمني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Other"
 msgstr "بلد تاني"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "My whole life"
 msgstr "حياتي كلها"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Less than 1 year"
 msgstr "أقل من عام واحد"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "1-5 years"
 msgstr "من 1 إلى 5 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "5-10 years"
 msgstr "من 5 إلى 10 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "More than 10 years"
 msgstr "أكتر من 10 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Not displaced"
 msgstr "غير مُهجَّر"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yes, ALL of the tips helped"
 msgstr "نعم، كل النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yes, MANY of the tips helped"
 msgstr "نعم، كتير من النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "Yes, a FEW of the tips helped"
 msgstr "نعم، قليل من النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=quick_replies
+msgctxt "quick_replies"
 msgid "NONE of the tips helped"
 msgstr "ما في ولا نصيحة فادتني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "next"
 msgstr "التالي"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "not at all"
 msgstr "أبدًا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "some days"
 msgstr "بعض الأيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "more than half the days"
 msgstr "أكتر من نص الأيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "nearly every day"
 msgstr "كل يوم تقريبًا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "prefer not to answer"
 msgstr "بفضّل ما أجاوب"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "0 days"
 msgstr "ولا يوم"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "1 day"
 msgstr "يوم واحد"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "2 days"
 msgstr "يومين"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "3 days"
 msgstr "3 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "4 days"
 msgstr "4 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "5 days"
 msgstr "5 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "6 days"
 msgstr "6 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "7 days"
 msgstr "7 أيام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes"
 msgstr "نعم"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "no"
 msgstr "لا"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "living in a camp or shelter"
 msgstr "عايش في مُخيّم أو مأوى"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "living in a house or apartment"
 msgstr "عايش في بيت أو شقة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "moving around often"
 msgstr "عم بغيّر مكاني كتير"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "palestinian"
 msgstr "فلسطيني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "lebanese"
 msgstr "لبناني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "syrian"
 msgstr "سوري"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "jordanian"
 msgstr "أردني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yemeni"
 msgstr "يمني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "other"
 msgstr "بلد تاني"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "my whole life"
 msgstr "حياتي كلها"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "less than 1 year"
 msgstr "أقل من عام واحد"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "1-5 years"
 msgstr "من 1 إلى 5 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "5-10 years"
 msgstr "من 5 إلى 10 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "more than 10 years"
 msgstr "أكتر من 10 أعوام"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "not displaced"
 msgstr "غير مُهجَّر"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes, all of the tips helped"
 msgstr "نعم، كل النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes, many of the tips helped"
 msgstr "نعم، كتير من النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "yes, a few of the tips helped"
 msgstr "نعم، قليل من النصائح كانت مفيدة"
 
-#. type=text
-msgctxt "text"
+#. type=arguments
+msgctxt "arguments"
 msgid "none of the tips helped"
 msgstr "ما في ولا نصيحة فادتني"
 
