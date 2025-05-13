@@ -375,11 +375,6 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "2. Remind me about this tomorrow"
-msgstr ""
-
-#. type=text
-msgctxt "text"
 msgid "3. I've finished receiving all of the information that I want from this chatbot"
 msgstr ""
 
@@ -387,6 +382,11 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It looks like you have started, but not finished, @fields.c_n_mod_started tips. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "2. Remind me about this tomorrow"
 msgstr ""
 
 #. type=text
@@ -401,7 +401,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "2. No, remind me tomorrow."
+msgid "2. No, remind me tomorrow"
 msgstr ""
 
 #. type=text
@@ -437,11 +437,6 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "2. No, remind me tomorrow"
 msgstr ""
 
 #. type=text

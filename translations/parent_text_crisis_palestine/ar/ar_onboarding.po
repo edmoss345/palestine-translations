@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 22:34+0000\n"
-"PO-Revision-Date: 2025-05-12 22:34+0000\n"
+"POT-Creation-Date: 2025-05-13 22:36+0000\n"
+"PO-Revision-Date: 2025-05-13 22:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -14,63 +14,8 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "❔Before we get started, we have a few questions to make this journey personalised:"
-msgstr "❔قبل ما نبدأ، في عنّا شوية أسئلة لحتى نخصّص هالرحلة إلك:"
-
-#. type=text
-msgctxt "text"
-msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
-msgstr "📲 كيف بتحب ينبعتلك المحتوى — عن طريق النصوص والصور غالبًا أو مع إرشادات صوتية؟"
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I don't understand what you mean."
-msgstr "آسف، ما فهمت شو قصدك."
-
-#. type=text
-msgctxt "text"
-msgid "Are you a WOMAN or MAN?"
-msgstr "هل إنت امرأة أم رجل؟"
-
-#. type=text
-msgctxt "text"
-msgid "How many children do you take care of?"
-msgstr "كم عدد الأطفال اللي بتعتني فيهم؟"
-
-#. type=text
-msgctxt "text"
-msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
-msgstr "هالنصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for your time."
-msgstr "شكرًا لوقتك."
-
-#. type=text
-msgctxt "text"
-msgid "📍 Where are you located?"
-msgstr "📍 وين موقعك؟"
-
-#. type=text
-msgctxt "text"
-msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
-msgstr "هاي الفترة كتير صعبة وخطرة عليك إنت وعيلتك. وممكن هاي النصائح تكون مختلفة عن اللي إنت محتاجه بهالوقت. إنت شو حابب تعمل؟"
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. If you decide you want these tips later, type HELLO."
-msgstr "مافي مشكلة. إذا قررت بعدين إنك بدك هالنصائح، اكتب مرحبًا."
-
-#. type=text
-msgctxt "text"
-msgid "What is your current living situation?"
-msgstr "شو وضعك السكني الحالي؟"
-
-#. type=text
-msgctxt "text"
-msgid "How old are you?"
-msgstr "قديش عمرك؟"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -81,6 +26,16 @@ msgstr "يُرجى اختيار لغتك:"
 msgctxt "text"
 msgid "من فضلك ادخل اللغة"
 msgstr "من فضلك ادخل اللغة"
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr "آسف، ما فهمت شو قصدك."
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText. Every parent everywhere needs support. We hope we can help. 💚"
+msgstr "مرحبًا في نصائح للوالدين. كل أب وأم بحاجة للدعم. بنتمنى إنه نقدر نساعدكم. 💚"
 
 #. type=text
 msgctxt "text"
@@ -120,7 +75,17 @@ msgstr "شروط وأحكام نصائح للوالدين متوفرة هون: {
 #. type=text
 msgctxt "text"
 msgid "Press YES if you understand and want to receive ParentText. Type 'EXIT' if you do not wish to participate."
+msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوالدين. اكتب 'خروج' إذا ما بدك تشارك."
+
+#. type=text
+msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
 msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you decide you want these tips later, type HELLO."
+msgstr "مافي مشكلة. إذا قررت بعدين إنك بدك هالنصائح، اكتب مرحبًا."
 
 #. type=text
 msgctxt "text"
@@ -129,8 +94,53 @@ msgstr "شكراً إلك! 🤲 نتمنى هالنصائح تساعدك تست�
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
-msgstr "هل أنت متأكد إنك ما بدك توصلك هالرسائل؟ إذا ما بدك توصلك أي رسائل تانية، اكتب لا. إذا كنت غلطت، اضغط الرجوع واختر اختيار تاني."
+msgid "❔Before we get started, we have a few questions to make this journey personalised:"
+msgstr "❔قبل ما نبدأ، في عنّا شوية أسئلة لحتى نخصّص هالرحلة إلك:"
+
+#. type=text
+msgctxt "text"
+msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
+msgstr "📲 كيف بتحب ينبعتلك المحتوى — عن طريق النصوص والصور غالبًا أو مع إرشادات صوتية؟"
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr "قديش عمرك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr "هل إنت امرأة أم رجل؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many children do you take care of?"
+msgstr "كم عدد الأطفال اللي بتعتني فيهم؟"
+
+#. type=text
+msgctxt "text"
+msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
+msgstr "هالنصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for your time."
+msgstr "شكرًا لوقتك."
+
+#. type=text
+msgctxt "text"
+msgid "📍 Where are you located?"
+msgstr "📍 وين موقعك؟"
+
+#. type=text
+msgctxt "text"
+msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
+msgstr "هاي الفترة كتير صعبة وخطرة عليك إنت وعيلتك. وممكن هاي النصائح تكون مختلفة عن اللي إنت محتاجه بهالوقت. إنت شو حابب تعمل؟"
+
+#. type=text
+msgctxt "text"
+msgid "What is your current living situation?"
+msgstr "شو وضعك السكني الحالي؟"
 
 #. type=text
 msgctxt "text"
@@ -142,30 +152,30 @@ msgctxt "text"
 msgid "To start, you can watch this video to learn about ParentText."
 msgstr "عشان تبدأ، فيك تشوف هالفيديو لتتعرّف على نصائح للوالدين."
 
-#. type=text
-msgctxt "text"
-msgid "Variables have been reset"
-msgstr "تم إعادة ضبط المتغيّرات"
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "English"
+msgstr "اللغة الإنجليزية"
 
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText. Every parent everywhere needs support. We hope we can help. 💚"
-msgstr "مرحبًا في نصائح للوالدين. كل أب وأم بحاجة للدعم. بنتمنى إنه نقدر نساعدكم. 💚"
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "اللغة العربية"
+msgstr "اللغة العربية"
 
-#. type=text
-msgctxt "text"
-msgid "I'm sorry. I don't understand. Please enter a number 0-30."
-msgstr "آسف، ما فهمت. من فضلك أدخل رقم بين 0 و 30."
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "YES"
+msgstr "نعم"
 
-#. type=text
-msgctxt "text"
-msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
-msgstr ""
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "NO"
+msgstr "لا"
 
-#. type=text
-msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
-msgstr ""
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "BACK"
+msgstr "الرجوع"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -176,6 +186,26 @@ msgstr "نص/ صور"
 msgctxt "quick_replies"
 msgid "Audio"
 msgstr "ملف صوتي"
+
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "Under 16 years old"
+msgstr "أقل من 16 سنة"
+
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "16-19 years old"
+msgstr "من 16 إلى 19 سنة"
+
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "20-35 years old"
+msgstr "من 20 إلى 35 سنة"
+
+#. type=quick_replies
+msgctxt "quick_replies"
+msgid "Over 35 years old"
+msgstr "أكتر من 35 سنة"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -274,57 +304,37 @@ msgstr "بفضّل ما أجاوب"
 
 #. type=quick_replies
 msgctxt "quick_replies"
-msgid "Under 16 years old"
-msgstr "أقل من 16 سنة"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "16-19 years old"
-msgstr "من 16 إلى 19 سنة"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "20-35 years old"
-msgstr "من 20 إلى 35 سنة"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "Over 35 years old"
-msgstr "أكتر من 35 سنة"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "English"
-msgstr "اللغة الإنجليزية"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "اللغة العربية"
-msgstr "اللغة العربية"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "Arabic"
-msgstr "اللغة العربية"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "YES"
-msgstr "نعم"
-
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "BACK"
-msgstr "الرجوع"
-
-#. type=quick_replies
-msgctxt "quick_replies"
 msgid "NEXT"
 msgstr "التالي"
 
-#. type=quick_replies
-msgctxt "quick_replies"
-msgid "NO"
+#. type=arguments
+msgctxt "arguments"
+msgid "english"
+msgstr "اللغة الإنجليزية"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "اللغة العربية"
+msgstr "اللغة العربية"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "yes"
+msgstr "نعم"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "exit"
+msgstr "خروج"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "back"
+msgstr "الرجوع"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "no"
 msgstr "لا"
 
 #. type=arguments
@@ -336,6 +346,26 @@ msgstr "نص/ صور"
 msgctxt "arguments"
 msgid "audio"
 msgstr "ملف صوتي"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "under 16 years old"
+msgstr "أقل من 16 سنة"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "16-19 years old"
+msgstr "من 16 إلى 19 سنة"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "20-35 years old"
+msgstr "من 20 إلى 35 سنة"
+
+#. type=arguments
+msgctxt "arguments"
+msgid "over 35 years old"
+msgstr "أكتر من 35 سنة"
 
 #. type=arguments
 msgctxt "arguments"
@@ -431,59 +461,4 @@ msgstr "عم بغيّر مكاني كتير"
 msgctxt "arguments"
 msgid "prefer not to say"
 msgstr "بفضّل ما أجاوب"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "under 16 years old"
-msgstr "أقل من 16 سنة"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "16-19 years old"
-msgstr "من 16 إلى 19 سنة"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "20-35 years old"
-msgstr "من 20 إلى 35 سنة"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "over 35 years old"
-msgstr "أكتر من 35 سنة"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "english"
-msgstr "اللغة الإنجليزية"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "اللغة العربية"
-msgstr "اللغة العربية"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "arabic"
-msgstr "اللغة العربية"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "yes"
-msgstr "نعم"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "exit"
-msgstr "خروج"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "no"
-msgstr "لا"
-
-#. type=arguments
-msgctxt "arguments"
-msgid "back"
-msgstr "الرجوع"
 

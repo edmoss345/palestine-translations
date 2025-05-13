@@ -4,62 +4,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "❔Before we get started, we have a few questions to make this journey personalised:"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Sorry, I don't understand what you mean."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Are you a WOMAN or MAN?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "How many children do you take care of?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "Thank you for your time."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "📍 Where are you located?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "That's okay. If you decide you want these tips later, type HELLO."
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "What is your current living situation?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "How old are you?"
+msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
 msgstr ""
 
 #. type=text
@@ -70,6 +15,16 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "من فضلك ادخل اللغة"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Sorry, I don't understand what you mean."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Welcome to ParentText. Every parent everywhere needs support. We hope we can help. 💚"
 msgstr ""
 
 #. type=text
@@ -114,12 +69,67 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "That's okay. If you decide you want these tips later, type HELLO."
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "Thank you! 🤲 We hope these tips will help you build strength and hope for you and your family."
 msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please type NO. If you made a mistake, please press BACK and choose another option."
+msgid "❔Before we get started, we have a few questions to make this journey personalised:"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "📲 How would you prefer to receive content —through mostly text / images or with audio guides?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "How old are you?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Are you a WOMAN or MAN?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "How many children do you take care of?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for your time."
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "📍 Where are you located?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "What is your current living situation?"
 msgstr ""
 
 #. type=text
@@ -132,29 +142,34 @@ msgctxt "text"
 msgid "To start, you can watch this video to learn about ParentText."
 msgstr ""
 
-#. type=text
-msgctxt "text"
-msgid "Variables have been reset"
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "English"
 msgstr ""
 
-#. type=text
-msgctxt "text"
-msgid "Welcome to ParentText. Every parent everywhere needs support. We hope we can help. 💚"
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "اللغة العربية"
 msgstr ""
 
-#. type=text
-msgctxt "text"
-msgid "I'm sorry. I don't understand. Please enter a number 0-30."
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "YES"
 msgstr ""
 
-#. type=text
-msgctxt "text"
-msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "NO"
 msgstr ""
 
-#. type=text
-msgctxt "text"
-msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "BACK"
 msgstr ""
 
 #. type=quick_replies
@@ -167,6 +182,30 @@ msgstr ""
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
 msgid "Audio"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Under 16 years old"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "16-19 years old"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "20-35 years old"
+msgstr ""
+
+#. type=quick_replies
+#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
+msgctxt "quick_replies"
+msgid "Over 35 years old"
 msgstr ""
 
 #. type=quick_replies
@@ -286,67 +325,43 @@ msgstr ""
 #. type=quick_replies
 #. This is a quick reply and its translation should be uniquely identified by the corresponding argument
 msgctxt "quick_replies"
-msgid "Under 16 years old"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "16-19 years old"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "20-35 years old"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Over 35 years old"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "English"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "اللغة العربية"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "Arabic"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "YES"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "BACK"
-msgstr ""
-
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
 msgid "NEXT"
 msgstr ""
 
-#. type=quick_replies
-#. This is a quick reply and its translation should be uniquely identified by the corresponding argument
-msgctxt "quick_replies"
-msgid "NO"
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "english"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "اللغة العربية"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "yes"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "exit"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "back"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "no"
 msgstr ""
 
 #. type=arguments
@@ -359,6 +374,30 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "audio"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "under 16 years old"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "16-19 years old"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "20-35 years old"
+msgstr ""
+
+#. type=arguments
+#. This is an argument and it may be used to identify a corresponding quick reply
+msgctxt "arguments"
+msgid "over 35 years old"
 msgstr ""
 
 #. type=arguments
@@ -473,70 +512,4 @@ msgstr ""
 #. This is an argument and it may be used to identify a corresponding quick reply
 msgctxt "arguments"
 msgid "prefer not to say"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "under 16 years old"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "16-19 years old"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "20-35 years old"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "over 35 years old"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "english"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "اللغة العربية"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "arabic"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "yes"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "exit"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "no"
-msgstr ""
-
-#. type=arguments
-#. This is an argument and it may be used to identify a corresponding quick reply
-msgctxt "arguments"
-msgid "back"
 msgstr ""

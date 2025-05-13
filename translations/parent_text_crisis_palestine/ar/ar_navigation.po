@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 22:34+0000\n"
-"PO-Revision-Date: 2025-05-12 22:34+0000\n"
+"POT-Creation-Date: 2025-05-13 22:36+0000\n"
+"PO-Revision-Date: 2025-05-13 22:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -320,7 +320,7 @@ msgstr "هل كان برنامج نصائح للوالدين مفيد؟ لو ن�
 #. type=text
 msgctxt "text"
 msgid "It’s a difficult moment for your family. I’m here today with a few tips to create small moments of connection with your child to give them the routine and stability you all need right now."
-msgstr ""
+msgstr "هادا الوقت صعب على عيلتك. أنا هون اليوم مع شوية نصائح عشان تخلق لحظات صغيرة للتواصل مع طفلك لتعطيه الروتين والاستقرار اللي"
 
 #. type=text
 msgctxt "text"
@@ -335,7 +335,7 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "2. Remind me tomorrow"
-msgstr ""
+msgstr "٢. الرجاء تذكيري غداً"
 
 #. type=text
 msgctxt "text"
@@ -365,7 +365,7 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "3. Remind me tomorrow"
-msgstr ""
+msgstr "٣. الرجاء تذكيري غداً"
 
 #. type=text
 msgctxt "text"
@@ -375,11 +375,6 @@ msgstr "شكلك بلّشت نصيحة تربوية بس ما خلصت استل�
 #. type=text
 msgctxt "text"
 msgid "1. Receive the remaining information"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me about this tomorrow"
 msgstr ""
 
 #. type=text
@@ -394,6 +389,11 @@ msgstr "مبيّن إنك بلّشت بس ما خلّصت، @fields.c_n_mo
 
 #. type=text
 msgctxt "text"
+msgid "2. Remind me about this tomorrow"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "You and your family are facing a challenging time. ParentText provides tips on how you can support your child during this crisis. Would you like to recieve your first tips now?"
 msgstr "إنت و عيلتك عم بتمرّوا بوقت صعب. نصائح للوالدين بتوفّرلك نصائح عن كيف ممكن تدعم أطفالك بهيك أوقات. بتحب تستقبل النصائح الأولى؟"
 
@@ -404,7 +404,7 @@ msgstr "١. نعم"
 
 #. type=text
 msgctxt "text"
-msgid "2. No, remind me tomorrow."
+msgid "2. No, remind me tomorrow"
 msgstr "٢. لا، الرجاء تذكيري غداً"
 
 #. type=text
@@ -441,11 +441,6 @@ msgstr "🧡 عم بتخطط تسافر مع أطفالك قريباً؟"
 msgctxt "text"
 msgid "Today’s tips can help you prepare to stay safe— Would you like to learn more?"
 msgstr "نصائح اليوم رح تساعدك تاخد إحتياطات الأمان خلال السفر- بتحب تتعرّف عليهم؟"
-
-#. type=text
-msgctxt "text"
-msgid "2. No, remind me tomorrow"
-msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -638,7 +633,7 @@ msgstr "الكوارث الطبيعية"
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "Child Protection"
-msgstr ""
+msgstr "حماية الطفل"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -918,7 +913,7 @@ msgstr "الكوارث الطبيعية"
 #. type=arguments
 msgctxt "arguments"
 msgid "child protection"
-msgstr ""
+msgstr "حماية الطفل"
 
 #. type=arguments
 msgctxt "arguments"

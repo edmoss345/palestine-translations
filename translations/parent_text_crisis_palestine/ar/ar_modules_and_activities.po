@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-12 22:34+0000\n"
-"PO-Revision-Date: 2025-05-12 22:34+0000\n"
+"POT-Creation-Date: 2025-05-13 22:36+0000\n"
+"PO-Revision-Date: 2025-05-13 22:36+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -40,7 +40,7 @@ msgstr "إهتمامَك بالإمور اللي بتهم أطفالَك بيع�
 #. type=text
 msgctxt "text"
 msgid "*Reflect on Hope*"
-msgstr "فكّر بالأمل"
+msgstr "*فكّر بالأمل*"
 
 #. type=text
 msgctxt "text"
@@ -70,7 +70,7 @@ msgstr "*إيش فيه جديد؟*"
 #. type=text
 msgctxt "text"
 msgid "Learning is fun! 🎓"
-msgstr ""
+msgstr "التعلم ممتع!🎓"
 
 #. type=text
 msgctxt "text"
@@ -95,7 +95,7 @@ msgstr "💛 مارسوا تعلّم المهارات الجديدة بطريق�
 #. type=text
 msgctxt "text"
 msgid "*Check-in Chat*"
-msgstr "محادثة لغاية التفقّد"
+msgstr "*محادثة لغاية التفقّد*"
 
 #. type=text
 msgctxt "text"
@@ -165,7 +165,7 @@ msgstr "🎉 استمتعوا و انتو بتبكروا و بتجربوا حر�
 #. type=text
 msgctxt "text"
 msgid "*2 Truths, 1 Lie*"
-msgstr ""
+msgstr "*حقيقتان وكذبة*"
 
 #. type=text
 msgctxt "text"
@@ -330,7 +330,7 @@ msgstr "مثلًا، أنا ممتاز في معاملة الناس بلطف. أ
 #. type=text
 msgctxt "text"
 msgid "*Weekly Goal Setting*"
-msgstr ""
+msgstr "*تحديد هدف أسبوعي*"
 
 #. type=text
 msgctxt "text"
@@ -1487,5 +1487,5 @@ msgstr "بتقدروا تمارسوا هادا التمرين في أي وقت �
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "NEXT"
-msgstr ""
+msgstr "التالي"
 
