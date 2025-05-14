@@ -34,7 +34,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "{mental_health referrals}"
+msgid "{mental_health_referrals}"
 msgstr ""
 
 #. type=text
@@ -44,7 +44,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "{natural_disasters referrals}"
+msgid "{natural_disasters_referrals}"
 msgstr ""
 
 #. type=text
@@ -79,7 +79,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "{child_protection}"
+msgid "{child_protection_referrals}"
 msgstr ""
 
 #. type=text
@@ -382,11 +382,6 @@ msgstr ""
 #. Strings like @fields.xxx and @results.yyy should not be translated. 
 msgctxt "text"
 msgid "It looks like you have started, but not finished, @fields.c_n_mod_started tips. What would you like to do?"
-msgstr ""
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me about this tomorrow"
 msgstr ""
 
 #. type=text

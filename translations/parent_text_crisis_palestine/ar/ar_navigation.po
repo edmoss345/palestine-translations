@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 22:36+0000\n"
-"PO-Revision-Date: 2025-05-13 22:36+0000\n"
+"POT-Creation-Date: 2025-05-14 23:32+0000\n"
+"PO-Revision-Date: 2025-05-14 23:32+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -44,8 +44,8 @@ msgstr "اكتب {HELP} بأي وقت لو بدّك تفاصيل عن خدمات
 
 #. type=text
 msgctxt "text"
-msgid "{mental_health referrals}"
-msgstr "{mental_health referrals}"
+msgid "{mental_health_referrals}"
+msgstr "{mental_health_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -54,8 +54,8 @@ msgstr "{health_referrals}"
 
 #. type=text
 msgctxt "text"
-msgid "{natural_disasters referrals}"
-msgstr "{natural_disasters referrals}"
+msgid "{natural_disasters_referrals}"
+msgstr "{natural_disasters_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -89,8 +89,8 @@ msgstr "{family_referrals}"
 
 #. type=text
 msgctxt "text"
-msgid "{child_protection}"
-msgstr "{child_protection}"
+msgid "{child_protection_referrals}"
+msgstr "{child_protection_referrals}"
 
 #. type=text
 msgctxt "text"
@@ -386,11 +386,6 @@ msgstr ""
 msgctxt "text"
 msgid "It looks like you have started, but not finished, @fields.c_n_mod_started tips. What would you like to do?"
 msgstr "مبيّن إنك بلّشت بس ما خلّصت، @fields.c_n_mod_started النصائح. شو حابب تعمل؟"
-
-#. type=text
-msgctxt "text"
-msgid "2. Remind me about this tomorrow"
-msgstr ""
 
 #. type=text
 msgctxt "text"

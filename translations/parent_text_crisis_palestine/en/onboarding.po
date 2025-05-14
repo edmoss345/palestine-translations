@@ -4,6 +4,11 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
+msgid "variables have been reset"
+msgstr ""
+
+#. type=text
+msgctxt "text"
 msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
 msgstr ""
 
@@ -74,7 +79,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "That's okay. If you decide you want these tips later, type HELLO."
+msgid "That's okay. If you decide you want these tips later, type {joining_trigger}."
 msgstr ""
 
 #. type=text
@@ -114,7 +119,7 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "Thank you for your time."
+msgid "Thank you for your time. If you decide you want these tips later, type {joining_trigger}."
 msgstr ""
 
 #. type=text

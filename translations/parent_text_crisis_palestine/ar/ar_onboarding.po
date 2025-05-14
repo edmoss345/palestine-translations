@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-13 22:36+0000\n"
-"PO-Revision-Date: 2025-05-13 22:36+0000\n"
+"POT-Creation-Date: 2025-05-14 23:32+0000\n"
+"PO-Revision-Date: 2025-05-14 23:32+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -84,8 +84,8 @@ msgstr ""
 
 #. type=text
 msgctxt "text"
-msgid "That's okay. If you decide you want these tips later, type HELLO."
-msgstr "مافي مشكلة. إذا قررت بعدين إنك بدك هالنصائح، اكتب مرحبًا."
+msgid "That's okay. If you decide you want these tips later, type {joining_trigger}."
+msgstr ""
 
 #. type=text
 msgctxt "text"
@@ -124,8 +124,8 @@ msgstr "هالنصائح مصممة للأشخاص اللي بيرعوا الأ�
 
 #. type=text
 msgctxt "text"
-msgid "Thank you for your time."
-msgstr "شكرًا لوقتك."
+msgid "Thank you for your time. If you decide you want these tips later, type {joining_trigger}."
+msgstr ""
 
 #. type=text
 msgctxt "text"
