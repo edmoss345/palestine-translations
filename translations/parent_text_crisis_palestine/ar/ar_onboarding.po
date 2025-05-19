@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 23:32+0000\n"
-"PO-Revision-Date: 2025-05-14 23:32+0000\n"
+"POT-Creation-Date: 2025-05-19 09:21+0000\n"
+"PO-Revision-Date: 2025-05-19 09:21+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -15,7 +15,7 @@ msgstr ""
 #. type=text
 msgctxt "text"
 msgid "It looks like this is not a good time. Please type 1 if you'd like to continue."
-msgstr ""
+msgstr "ممكن الوقت هلا مش مناسب. أكتب ١ إذا حابب تستمر."
 
 #. type=text
 msgctxt "text"
@@ -80,12 +80,12 @@ msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوا�
 #. type=text
 msgctxt "text"
 msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
-msgstr ""
+msgstr "هل إنت متأكد إنك ما بدك تستقبل هاي الرسائل؟ إذا مش حابب تستقبل هاي الرسائل ، إضغط :لا. إذا غلطت، إضغط : رجوع، و إختار خَيار تاني."
 
 #. type=text
 msgctxt "text"
 msgid "That's okay. If you decide you want these tips later, type {joining_trigger}."
-msgstr ""
+msgstr "مافي مشكلة. إذا قررت تحصل على هدول النصائح في وقت تاني، أكتب {joining_trigger}."
 
 #. type=text
 msgctxt "text"
@@ -120,12 +120,12 @@ msgstr "كم عدد الأطفال اللي بتعتني فيهم؟"
 #. type=text
 msgctxt "text"
 msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
-msgstr "هالنصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
+msgstr "هاي النصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
 
 #. type=text
 msgctxt "text"
 msgid "Thank you for your time. If you decide you want these tips later, type {joining_trigger}."
-msgstr ""
+msgstr "شكراً على وقتك. إذا قررت إنك بدك هاي النصائح في وقت تاني، أكتب {joining_trigger}."
 
 #. type=text
 msgctxt "text"

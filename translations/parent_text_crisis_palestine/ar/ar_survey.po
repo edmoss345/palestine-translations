@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-14 23:32+0000\n"
-"PO-Revision-Date: 2025-05-14 23:32+0000\n"
+"POT-Creation-Date: 2025-05-19 09:21+0000\n"
+"PO-Revision-Date: 2025-05-19 09:21+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -40,7 +40,7 @@ msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق أو ح�
 #. type=text
 msgctxt "text"
 msgid "Over the last week, how often have you been bothered by little interest or pleasure in doing things?"
-msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق لأنك ما بدك تعمل إشي أو مش مستمتع؟"
+msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق لأنك ما بدك تعمل إشي أو مش مستمتع بللي بتعمله؟"
 
 #. type=text
 msgctxt "text"
@@ -65,7 +65,7 @@ msgstr "تمام، رح توصلك نصائح جديدة بكرة."
 #. type=text
 msgctxt "text"
 msgid "How many days in the past week did you do something to keep your child(ren) safe, such as make sure they don't spend time alone with unknown adults/children or walk home alone outside after dark?"
-msgstr "كم يوم بالأسبوع الماضي عملت إشي لتحافظ على أمان طفلك (أطفالك)، زي إنَّك ما تخليهم يقضوا وقت لحالهم مع ناس غريبة أو ما يرجعوا لحالهم للبيت بعد العتمة؟"
+msgstr "كم يوم بالأسبوع الماضي عملت إشي لتحافظ على أمان طفلك (أطفالك)، زي إنَّك ما تخليهم يقضوا وقت لحالهم مع ناس او اطفال ما بتعرفهم ,وما يرجعوا لحالهم للبيت بعد العتمة؟"
 
 #. type=text
 msgctxt "text"
