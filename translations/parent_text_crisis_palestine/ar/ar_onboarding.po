@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 09:21+0000\n"
-"PO-Revision-Date: 2025-05-19 09:21+0000\n"
+"POT-Creation-Date: 2025-05-22 14:39+0000\n"
+"PO-Revision-Date: 2025-05-22 14:39+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -75,12 +75,12 @@ msgstr "شروط وأحكام نصائح للوالدين متوفرة هون: {
 #. type=text
 msgctxt "text"
 msgid "Press YES if you understand and want to receive ParentText. Type 'EXIT' if you do not wish to participate."
-msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوالدين. اكتب 'خروج' إذا ما بدك تشارك."
+msgstr "اضغط نعم إذا فهمت وبدك تستلم نصائح للوالدين. اكتب **'خروج'** إذا ما بدك تشارك."
 
 #. type=text
 msgctxt "text"
 msgid "Are you sure you do not want to get these messages? If you do not want to receive any more messages, please press NO. If you made a mistake, please press BACK and choose another option."
-msgstr "هل إنت متأكد إنك ما بدك تستقبل هاي الرسائل؟ إذا مش حابب تستقبل هاي الرسائل ، إضغط :لا. إذا غلطت، إضغط : رجوع، و إختار خَيار تاني."
+msgstr "هل إنت متأكد إنك ما بدك تستقبل هاي الرسائل؟ إذا مش حابب تستقبل هاي الرسائل ، إضغط :لا. إذا غلطت، إضغط : **رجوع،** و إختار خَيار تاني."
 
 #. type=text
 msgctxt "text"

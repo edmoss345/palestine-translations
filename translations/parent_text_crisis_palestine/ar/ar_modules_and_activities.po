@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 09:21+0000\n"
-"PO-Revision-Date: 2025-05-19 09:21+0000\n"
+"POT-Creation-Date: 2025-05-22 14:39+0000\n"
+"PO-Revision-Date: 2025-05-22 14:39+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -135,7 +135,7 @@ msgstr "الحركة بتحسّن النفسية!"
 #. type=text
 msgctxt "text"
 msgid "This game can be played in pairs or as a group - stand facing each other or in a circle."
-msgstr "بإمكانكم تلعبوا هاي اللعبة بأزواج أو بمجموعة - واقفين قدّام بعض أو في شكل دائرة."
+msgstr "بإمكانكم تلعبوا هاي اللعبة بأزواج أو بمجموعة - واقفين قدّام بعض أو بشكل دائرة."
 
 #. type=text
 msgctxt "text"
@@ -832,7 +832,7 @@ msgstr "✅⬜️"
 #. type=text
 msgctxt "text"
 msgid "You’ve completed 50% of this tip! Press NEXT to continue."
-msgstr "أكملت٥٠٪من النصيحة! إضغط NEXT لتكمّل."
+msgstr "أكملت٥٠٪من النصيحة! إضغط **التالي** لتكمّل."
 
 #. type=text
 msgctxt "text"
@@ -1042,7 +1042,7 @@ msgstr "🤍حاول قد ما تقدر تخلّي أطفالك معك أو مع
 #. type=text
 msgctxt "text"
 msgid "Make sure you know that the people your children spend time with in person and online are trustworthy ✔️."
-msgstr "اتأكد إنّك بتِثِق بلأشخاص اللي أطفالك بيقضوا وقت معهم، سواء وجهًا لوجه أو أونلاين ✔️."
+msgstr "اتأكد إنّك بتِثِق بالأشخاص اللي أطفالك بيقضوا وقت معهم، سواء وجهًا لوجه أو أونلاين ✔️."
 
 #. type=text
 msgctxt "text"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-19 09:21+0000\n"
-"PO-Revision-Date: 2025-05-19 09:21+0000\n"
+"POT-Creation-Date: 2025-05-22 14:39+0000\n"
+"PO-Revision-Date: 2025-05-22 14:39+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -315,7 +315,7 @@ msgstr "نعم، كتير من النصائح كانت مفيدة"
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "Yes, a FEW of the tips helped"
-msgstr "نعم، قليل من النصائح كانت مفيدة"
+msgstr "نعم، قليل  من النصائح كانت مفيدة"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -496,4 +496,14 @@ msgstr "نعم، قليل من النصائح كانت مفيدة"
 msgctxt "arguments"
 msgid "none of the tips helped"
 msgstr "ما في ولا نصيحة فادتني"
+
+#. type=text
+msgctxt "text"
+msgid "Just 2 more quick questions 💬"
+msgstr ""
+
+#. type=text
+msgctxt "text"
+msgid "\"We will now ask you to answer 5 quick questions 📝"
+msgstr ""
 
