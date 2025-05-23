@@ -43,25 +43,33 @@ def escape_quotes(text):
 # Main processing loop
 for sheet_name, file_name in sheet_to_filename.items():
     df = pd.read_excel(file_path, sheet_name=sheet_name, keep_default_na=False)
+
+    # Filter rows that have non-empty English, Arabic, and Type values
+    valid_rows = df[
+        df["English"].astype(str).str.strip() != "" &
+        df["Arabic"].astype(str).str.strip() != "" &
+        df["Type"].astype(str).str.strip() != ""
+    ]
+
+    # If there are no rows with Arabic translations, skip creating the file
+    if valid_rows.empty:
+        print(f"Skipped {sheet_name} - no Arabic translations found.")
+        continue
+
     output_path = os.path.join(output_dir, file_name)
 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write(generate_po_header())
 
-        for i, row in df.iterrows():
+        for i, row in valid_rows.iterrows():
+            english = str(row["English"]).strip()
+            arabic = str(row["Arabic"]).strip()
+            type = str(row["Type"]).strip()
 
-            english_raw = row.get("English", "")
-            arabic_raw = row.get("Arabic", "")
-            type_raw = row.get("Type", "")
-
-            if pd.notna(english_raw) and pd.notna(arabic_raw) and pd.notna(type_raw):
-                english = str(english_raw).strip()
-                arabic = str(arabic_raw).strip()
-                type = str(type_raw).strip()
-
-                f.write(f"#. type={escape_quotes(type)}\n")
-                f.write(f"msgctxt \"{escape_quotes(type)}\"\n")
-                f.write(f"msgid \"{escape_quotes(english)}\"\n")
-                f.write(f"msgstr \"{escape_quotes(arabic)}\"\n\n")
+            f.write(f"#. type={escape_quotes(type)}\n")
+            f.write(f"msgctxt \"{escape_quotes(type)}\"\n")
+            f.write(f"msgid \"{escape_quotes(english)}\"\n")
+            f.write(f"msgstr \"{escape_quotes(arabic)}\"\n\n")
 
 print(f"PO files created successfully in: {os.path.abspath(output_dir)}")
+
