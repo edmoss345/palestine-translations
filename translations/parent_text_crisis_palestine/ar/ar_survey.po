@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-22 14:39+0000\n"
-"PO-Revision-Date: 2025-05-22 14:39+0000\n"
+"POT-Creation-Date: 2025-05-23 16:00+0000\n"
+"PO-Revision-Date: 2025-05-23 16:00+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -45,17 +45,18 @@ msgstr "بالأسبوع الماضي، كم مرّة حسيت بضيق لأنك
 #. type=text
 msgctxt "text"
 msgid "How many days in the past week did you play with your children or help them learn something new?"
-msgstr "كم يوم بالأسبوع الماضي لعبت مع أولادك أو ساعدتهم يتعلّموا إشي جديد؟"
+msgstr "وأخيراً، كم يوم بالأسبوع الماضي لعبت مع أولادك أو ساعدتهم يتعلّموا إشي جديد؟"
 
 #. type=text
 msgctxt "text"
 msgid "Before we continue, would you like to answer 5 quick questions? 📝"
-msgstr "قبل ما نكمّل، بتحب تجاوب على ٥ أسئلة سريعة؟ 📝"
+msgstr "أحوالك بتهمنا ❤️"
 
 #. type=text
 msgctxt "text"
 msgid "Your answers will help us make these tips better for parents and children finding strength and hope during war, displacement, and other tough times 💔🌱"
-msgstr "إجاباتك رح تساعدنا نطوّر النصائح لدعم الأهالي والأطفال اللي بيبحثوا عن القوة والأمل بأوقات الحرب والتهجير والظروف الصعبة 💔🌱"
+msgstr "إجاباتك رح تساعدنا في تحسين هاي النصائح لالك ولكل الأهالي والأطفال الباحثين عن القوة والأمل في أوقات الحرب، التهجير، والظروف الصعبة الأخرى. 
+بهمنا نسمع منكم. هل ممكن تجاوبوا على 5 أسئلة سريعة وأخيرة؟"
 
 #. type=text
 msgctxt "text"
@@ -65,7 +66,7 @@ msgstr "تمام، رح توصلك نصائح جديدة بكرة."
 #. type=text
 msgctxt "text"
 msgid "How many days in the past week did you do something to keep your child(ren) safe, such as make sure they don't spend time alone with unknown adults/children or walk home alone outside after dark?"
-msgstr "كم يوم بالأسبوع الماضي عملت إشي لتحافظ على أمان طفلك (أطفالك)، زي إنَّك ما تخليهم يقضوا وقت لحالهم مع ناس او اطفال ما بتعرفهم ,وما يرجعوا لحالهم للبيت بعد العتمة؟"
+msgstr "كم عدد الأيام خلال الأسبوع الماضي التي سألت فيها مع من يقضي أطفالك وقتهم (سواء بشكل مباشر أو عبر الإنترنت)?"
 
 #. type=text
 msgctxt "text"
@@ -80,7 +81,7 @@ msgstr "كم يوم بالأسبوع الماضي عاقبت أولادك جسد
 #. type=text
 msgctxt "text"
 msgid "How many days in the past week did you try to speak calmly with your child when you were upset with them?"
-msgstr "كم يوم بالأسبوع الماضي حاولت تحكي مع ابنك بهدوء رغم إنّك كنت معصّب منه؟"
+msgstr "وأخيراً، كم عدد الأيام التي شعرت فيها بالأمل، وبأن عندك هدف أو لك معنى بالحياة؟"
 
 #. type=text
 msgctxt "text"
@@ -500,10 +501,40 @@ msgstr "ما في ولا نصيحة فادتني"
 #. type=text
 msgctxt "text"
 msgid "Just 2 more quick questions 💬"
-msgstr ""
+msgstr "كمان بس ٢ أسئلة سريعة 💬"
 
 #. type=text
 msgctxt "text"
-msgid "\"We will now ask you to answer 5 quick questions 📝"
-msgstr ""
+msgid "Lastly, how many days in the past week did you play with your children or help them learn something new?"
+msgstr "وأخيراً، كم يوم بالأسبوع الماضي لعبت مع أولادك أو ساعدتهم يتعلّموا إشي جديد؟"
+
+#. type=text
+msgctxt "text"
+msgid "How you’re doing matters to us ❤️"
+msgstr "أحوالك بتهمنا ❤️"
+
+#. type=text
+msgctxt "text"
+msgid "Your answers help us make these tips better for you and all families seeking strength and hope during war, displacement, and other tough times.💔🌱"
+msgstr "جاباتك رح تساعدنا في تحسين هاي النصائح لالك ولكل الأهالي والأطفال الباحثين عن القوة والأمل في أوقات الحرب، التهجير، والظروف الصعبة الأخرى."
+
+#. type=text
+msgctxt "text"
+msgid "Will you answer 5 final quick questions?📝"
+msgstr "بهمنا نسمع منكم. هل ممكن تجاوبوا على 5 أسئلة سريعة وأخيرة؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you ask who your children were spending time with (both in person or online)?"
+msgstr "كم عدد الأيام خلال الأسبوع الماضي التي سألت فيها مع من يقضي أطفالك وقتهم (سواء بشكل مباشر أو عبر الإنترنت)؟"
+
+#. type=text
+msgctxt "text"
+msgid "How many days in the past week did you feel hopeful, purposeful, or like you have meaning?"
+msgstr "وأخيراً، كم عدد الأيام التي شعرت فيها بالأمل، وبأن عندك هدف أو لك معنى بالحياة؟"
+
+#. type=text
+msgctxt "text"
+msgid "Thank you for your answers. ❤️"
+msgstr "شكرًا لك على إجابتك."
 

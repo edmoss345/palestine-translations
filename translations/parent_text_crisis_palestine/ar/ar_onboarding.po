@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-22 14:39+0000\n"
-"PO-Revision-Date: 2025-05-22 14:39+0000\n"
+"POT-Creation-Date: 2025-05-23 16:00+0000\n"
+"PO-Revision-Date: 2025-05-23 16:00+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -60,7 +60,7 @@ msgstr "✅ إحنا ما رح نطلب اسمك أبداً. كل شيء بتش�
 #. type=text
 msgctxt "text"
 msgid "✅Your anonymous information may also be shared with others working to help families like yours build strength and hope in tough times. All your information will be private and can’t be linked back to you."
-msgstr "✅ معلوماتك المجهولة ممكن يتم مشاركتها مع اللي بيشتغلوا لمساعدة عائلات زي عائلتك لبناء القوة والأمل في الأوقات الصعبة. كل معلوماتك رح تكون خاصة وما رح يقدر حدا يربطها فيك."
+msgstr "✅ إجاباتك مجهولة الهوية ممكن يتم مشاركتها مع اللي بيشتغلوا لمساعدة عائلات زي عائلتك لبناء القوة والأمل في الأوقات الصعبة. كل معلوماتك رح تكون خاصة وما رح يقدر حدا يربطها فيك."
 
 #. type=text
 msgctxt "text"
@@ -95,7 +95,7 @@ msgstr "شكراً إلك! 🤲 نتمنى هالنصائح تساعدك تست�
 #. type=text
 msgctxt "text"
 msgid "❔Before we get started, we have a few questions to make this journey personalised:"
-msgstr "❔قبل ما نبدأ، في عنّا شوية أسئلة لحتى نخصّص هالرحلة إلك:"
+msgstr "❤️ قبل ما نبدأ، في عنّا شوية أسئلة لحتى نخصّص هالرحلة إلك:"
 
 #. type=text
 msgctxt "text"
@@ -120,7 +120,7 @@ msgstr "كم عدد الأطفال اللي بتعتني فيهم؟"
 #. type=text
 msgctxt "text"
 msgid "These tips are designed for those who look after children. Would you still like to receive the tips so you can share the advice with friends and family?"
-msgstr "هاي النصائح مصممة للأشخاص اللي بيرعوا الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
+msgstr "هاي النصائح مصممة للأشخاص اللي يقومون برعاية الأطفال. هل لسى بتحب تستلم النصائح لتقدر تشاركها مع أصدقائك وعيلتك؟"
 
 #. type=text
 msgctxt "text"
@@ -135,7 +135,7 @@ msgstr "📍 وين موقعك؟"
 #. type=text
 msgctxt "text"
 msgid "This is a very difficult and dangerous time for you and your family. These tips might be different from what you need right now. What would you like to do?"
-msgstr "هاي الفترة كتير صعبة وخطرة عليك إنت وعيلتك. وممكن هاي النصائح تكون مختلفة عن اللي إنت محتاجه بهالوقت. إنت شو حابب تعمل؟"
+msgstr "هاي الفترة كتير صعبة وخطرة عليك إنت وعيلتك. وممكن هاي النصائح تكون مختلفة عن اللي إنت محتاجه بهالوقت. هل تريد أن تطلع على النصائح؟"
 
 #. type=text
 msgctxt "text"
@@ -220,7 +220,7 @@ msgstr "رجل"
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "None"
-msgstr "لا شيء"
+msgstr "لا يوجد"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -235,12 +235,12 @@ msgstr "أكتر من أربعة"
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "I want the tips"
-msgstr "بدي النصائح"
+msgstr "أريد النصائح"
 
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "I do not want the tips"
-msgstr "ما بدي النصائح"
+msgstr "لا أريد النصائح"
 
 #. type=quick_replies
 msgctxt "quick_replies"

@@ -46,10 +46,11 @@ for sheet_name, file_name in sheet_to_filename.items():
 
     # Filter rows that have non-empty English, Arabic, and Type values
     valid_rows = df[
-        df["English"].astype(str).str.strip() != "" &
-        df["Arabic"].astype(str).str.strip() != "" &
-        df["Type"].astype(str).str.strip() != ""
+        (df["English"].astype(str).str.strip() != "") &
+        (df["Arabic"].astype(str).str.strip() != "") &
+        (df["Type"].astype(str).str.strip() != "")
     ]
+
 
     # If there are no rows with Arabic translations, skip creating the file
     if valid_rows.empty:
