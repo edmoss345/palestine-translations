@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-29 12:51+0000\n"
-"PO-Revision-Date: 2025-05-29 12:51+0000\n"
+"POT-Creation-Date: 2025-05-29 22:49+0000\n"
+"PO-Revision-Date: 2025-05-29 22:49+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -20,7 +20,7 @@ msgstr "ممكن الوقت هلا مش مناسب. أكتب ١ إذا �
 #. type=text
 msgctxt "text"
 msgid "Please select your language:"
-msgstr "يُرجى اختيار لغتك:"
+msgstr "Please select your language:"
 
 #. type=text
 msgctxt "text"
@@ -155,7 +155,7 @@ msgstr "عشان تبدأ، فيك تشوف هالفيديو لتتعرّف عل
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "English"
-msgstr "اللغة الإنجليزية"
+msgstr "English"
 
 #. type=quick_replies
 msgctxt "quick_replies"
