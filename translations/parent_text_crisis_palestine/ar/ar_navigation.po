@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-05-27 22:48+0000\n"
-"PO-Revision-Date: 2025-05-27 22:48+0000\n"
+"POT-Creation-Date: 2025-05-29 12:51+0000\n"
+"PO-Revision-Date: 2025-05-29 12:51+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -330,12 +330,12 @@ msgstr "إضغط رقم على لوحة المفاتيح عندك:"
 #. type=text
 msgctxt "text"
 msgid "1. Continue with my registration"
-msgstr "١.الإستمرار في التسجيل"
+msgstr "1.الإستمرار في التسجيل"
 
 #. type=text
 msgctxt "text"
 msgid "2. Remind me tomorrow"
-msgstr "٢. الرجاء تذكيري غداً"
+msgstr "2. الرجاء تذكيري غداً"
 
 #. type=text
 msgctxt "text"
@@ -345,7 +345,7 @@ msgstr "شكلك بلشت تجاوب على شوية أسئلة أساسية ب�
 #. type=text
 msgctxt "text"
 msgid "1. Continue my initial questions"
-msgstr "١.متابعة أسألتي الأولى"
+msgstr "1.متابعة أسألتي الأولى"
 
 #. type=text
 msgctxt "text"
@@ -355,17 +355,17 @@ msgstr "شكلك بلّشت بنصيحة، بس ما خلّصت استلا
 #. type=text
 msgctxt "text"
 msgid "1. Finish the previous tip"
-msgstr "١.تكميل نصيحتي السابقة"
+msgstr "1.تكميل نصيحتي السابقة"
 
 #. type=text
 msgctxt "text"
 msgid "2. Receive a new tip"
-msgstr "٢.إستقبال نصيحة جديدة"
+msgstr "2.إستقبال نصيحة جديدة"
 
 #. type=text
 msgctxt "text"
 msgid "3. Remind me tomorrow"
-msgstr "٣. الرجاء تذكيري غداً"
+msgstr "3. الرجاء تذكيري غداً"
 
 #. type=text
 msgctxt "text"
@@ -375,12 +375,12 @@ msgstr "شكلك بلّشت نصيحة تربوية بس ما خلصت استل�
 #. type=text
 msgctxt "text"
 msgid "1. Receive the remaining information"
-msgstr "١. إستقبال المعلومات المتبقية"
+msgstr "1. إستقبال المعلومات المتبقية"
 
 #. type=text
 msgctxt "text"
 msgid "3. I've finished receiving all of the information that I want from this chatbot"
-msgstr "٣. لقد إستقبلت كل المعلومات التي أرغب فيها من برنامج المحادثة هذا"
+msgstr "3. لقد إستقبلت كل المعلومات التي أرغب فيها من برنامج المحادثة هذا"
 
 #. type=text
 msgctxt "text"
@@ -395,12 +395,12 @@ msgstr "إنت و عيلتك عم بتمرّوا بوقت صعب. نصا�
 #. type=text
 msgctxt "text"
 msgid "1. Yes"
-msgstr "١. نعم"
+msgstr "1. نعم"
 
 #. type=text
 msgctxt "text"
 msgid "2. No, remind me tomorrow"
-msgstr "٢. لا، الرجاء تذكيري غداً"
+msgstr "2. لا، الرجاء تذكيري غداً"
 
 #. type=text
 msgctxt "text"
@@ -441,14 +441,12 @@ msgstr "نصائح اليوم رح تساعدك تاخد إحتياطات الأ
 msgctxt "text"
 msgid "💛 In stressful moments, even simple actions can help keep your child safe and close. Today’s tips share how to stay connected and calm when traveling."
 msgstr "💛 أفعال بسيطة بتساعد تخلّي طفلك قريب و آمن في الأوقات الصعبة و اللي فيها تحدّي.
-نصائح اليوم بتشاركك طرق عشان تساعدك تحافظ على هدوئك و تخلّي طفلك بعلاقة قريبة منّك خلال السفر.
-بتحب تُحصُل عليهم؟"
+نصائح اليوم بتشاركك طرق عشان تساعدك تحافظ على هدوئك و تخلّي طفلك بعلاقة قريبة منّك خلال السفر."
 
 #. type=text
 msgctxt "text"
 msgid "🫂 Many parents are having quiet talks with their children about staying safe. Today’s tips explain how to keep your child safe from harassment in a calm, age-appropriate way."
-msgstr "🫂 كتير من الأهالي عم يحكوا مع أطفالهم على إنفراد عن الحذر و الإبتعاد عن الخطر. نصائح اليوم بعرّفوك كيف توعّي طفلك عن خطر التحرّش بطريقة هادية و مناسبة لعمره عشان تحميه و يضلّ آمن. 
-بتحب تُحصُل عليهم؟"
+msgstr "🫂 كتير من الأهالي عم يحكوا مع أطفالهم على إنفراد عن الحذر و الإبتعاد عن الخطر. نصائح اليوم بعرّفوك كيف توعّي طفلك عن خطر التحرّش بطريقة هادية و مناسبة لعمره عشان تحميه و يضلّ آمن."
 
 #. type=text
 msgctxt "text"
