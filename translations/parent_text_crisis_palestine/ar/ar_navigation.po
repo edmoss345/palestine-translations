@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-10 11:22+0000\n"
-"PO-Revision-Date: 2025-06-10 11:22+0000\n"
+"POT-Creation-Date: 2025-06-10 17:28+0000\n"
+"PO-Revision-Date: 2025-06-10 17:28+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -114,7 +114,7 @@ msgstr "ما فهمت رسالتك."
 
 #. type=text
 msgctxt "text"
-msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access additional support resources."
+msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, {PAUSE} to take a pause with us, or {HELP} to access additional support resources."
 msgstr "اكتب {MENU} علشان توصل للمصادر وتراجع النصائح السابقة، اكتب {PLAY} علشان تستقبل نشاط ممتع ممكن تعمله مع طفلك، اكتب {PAUSE} علشان توخذ لحظة استراحة ، أو اكتب {HELP} علشان توصل لمصادر دعم إضافية."
 
 #. type=text
@@ -1162,4 +1162,24 @@ msgstr "اللغة العربية"
 msgctxt "text"
 msgid "Was ParentText helpful? If so, share it with a friend. Just send this link: {share link}"
 msgstr "هل كانت \"نصائح للوالدين\" مفيدة الك ، اذا كانت كذلك شاركها مع صديق. فقط ارسل له هذا الرابط: {share link}"
+
+#. type=text
+msgctxt "text"
+msgid "Welcome back!"
+msgstr "مرحبًا فيك مرة تانية!"
+
+#. type=text
+msgctxt "text"
+msgid "You will continue with your progress tomorrow."
+msgstr "رح تكمل تقدّمك بكرا."
+
+#. type=text
+msgctxt "text"
+msgid "2. No"
+msgstr "2. لا"
+
+#. type=text
+msgctxt "text"
+msgid "That's okay."
+msgstr "عادي، ما في مشكلة."
 
