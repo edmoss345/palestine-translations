@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-10 17:28+0000\n"
-"PO-Revision-Date: 2025-06-10 17:28+0000\n"
+"POT-Creation-Date: 2025-06-10 17:38+0000\n"
+"PO-Revision-Date: 2025-06-10 17:38+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -115,6 +115,11 @@ msgstr "ما فهمت رسالتك."
 #. type=text
 msgctxt "text"
 msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, {PAUSE} to take a pause with us, or {HELP} to access additional support resources."
+msgstr "اكتب {MENU} علشان توصل للمصادر وتراجع النصائح السابقة، اكتب {PLAY} علشان تستقبل نشاط ممتع ممكن تعمله مع طفلك، اكتب {PAUSE} علشان توخذ لحظة استراحة ، أو اكتب {HELP} علشان توصل لمصادر دعم إضافية."
+
+#. type=text
+msgctxt "text"
+msgid "Please type {MENU} to access resources and review previous tips, {PLAY} to receive a playful activity you can complete with your child, or {HELP} to access additional support resources."
 msgstr "اكتب {MENU} علشان توصل للمصادر وتراجع النصائح السابقة، اكتب {PLAY} علشان تستقبل نشاط ممتع ممكن تعمله مع طفلك، اكتب {PAUSE} علشان توخذ لحظة استراحة ، أو اكتب {HELP} علشان توصل لمصادر دعم إضافية."
 
 #. type=text
