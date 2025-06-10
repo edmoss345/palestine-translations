@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-05 14:15+0000\n"
-"PO-Revision-Date: 2025-06-05 14:15+0000\n"
+"POT-Creation-Date: 2025-06-10 11:10+0000\n"
+"PO-Revision-Date: 2025-06-10 11:10+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -156,7 +156,7 @@ msgstr "التالي"
 #. type=quick_replies
 msgctxt "quick_replies"
 msgid "Not at all"
-msgstr "أبدًا"
+msgstr "ولا مرة"
 
 #. type=quick_replies
 msgctxt "quick_replies"
@@ -537,4 +537,24 @@ msgstr "وأخيراً، كم عدد الأيام التي شعرت فيها ب�
 msgctxt "text"
 msgid "Thank you for your answers. ❤️"
 msgstr "شكرًا لك على إجابتك."
+
+#. type=text
+msgctxt "text"
+msgid "We have 8 quick questions. Your answers help us make these tips better for parents and children finding strength and hope during war, displacement, and other tough times."
+msgstr "عنا ٨ أسئلة سريعة. إجاباتك بتساعدنا نطور هالنصايح للأهل والأولاد اللي عم يلاقوا قوة وأمل وقت الحرب، النزوح، والأوقات الصعبة."
+
+#. type=text
+msgctxt "text"
+msgid "Can you believe it’s been a month? ⏳"
+msgstr "بتصدق إنه صار شهر؟ ⏳"
+
+#. type=text
+msgctxt "text"
+msgid "We’d love to check in and see how you’re doing ❤️. It’ll take less than 5 minutes."
+msgstr "حابين نطمن عليك ونشوف كيف حالك ❤️ رح ياخد منك أقل من ٥ دقايق."
+
+#. type=text
+msgctxt "text"
+msgid "Is now a good time? 🙂"
+msgstr "هل هلأ وقت مناسب؟ 🙂"
 
