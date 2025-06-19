@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Palestine Translation\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2025-06-17 11:51+0000\n"
-"PO-Revision-Date: 2025-06-17 11:51+0000\n"
+"POT-Creation-Date: 2025-06-19 18:23+0000\n"
+"PO-Revision-Date: 2025-06-19 18:23+0000\n"
 "Last-Translator: \n"
 "Language-Team: Arabic\n"
 "Language: ar\n"
@@ -1132,6 +1132,11 @@ msgstr "إعداد العرض عندك حاليًا هو صوت."
 msgctxt "text"
 msgid "Thanks for reaching out 🤍 It really shows how much you care about your children. Right now, the programme is full, but we’ve added you to the waiting list. As soon as a spot opens up, we’ll let you know."
 msgstr "شكرًا إنك تواصلت معنا 🤍 هذا يدل قدّيش بتحب أولادك وبتخاف عليهم. حاليًا البرنامج مليان، بس حطيناك عاللائحة ورح نبلغك أول ما يفضى مكان."
+
+#. type=text
+msgctxt "text"
+msgid "For now, we welcome you to look at SANADAK's facebook page for videos of encouragement and tips for taking care of yourself and your children:"
+msgstr "حالياً، بتقدروا تزوروا صفحة \"سندك\" على الفيسبوك، رح تلاقوا فيديوهات فيها تشجيع ونصائح عن كيف تهتموا بحالكم 🤍 وبأولادكم"
 
 #. type=quick_replies
 msgctxt "quick_replies"
